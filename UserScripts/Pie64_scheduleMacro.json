@@ -1,0 +1,86 @@
+[
+    {
+        "ScheduleMacroId" : 1957614422,
+        "MacroName" : "숙제_월.토",
+        "MSecsFromEpochUTCStartTime" : "1756479900000",
+        "MSecsRepeatTime" : "604800000"
+    },
+    {
+        "ScheduleMacroId" : 726743698,
+        "MacroName" : "숙제_월.토",
+        "MSecsFromEpochUTCStartTime" : "1756652700000",
+        "MSecsRepeatTime" : "604800000"
+    },
+    {
+        "ScheduleMacroId" : 454076864,
+        "MacroName" : "숙제_화",
+        "MSecsFromEpochUTCStartTime" : "1756739100000",
+        "MSecsRepeatTime" : "604800000"
+    },
+    {
+        "ScheduleMacroId" : 640628392,
+        "MacroName" : "숙제_수",
+        "MSecsFromEpochUTCStartTime" : "1756825500000",
+        "MSecsRepeatTime" : "604800000"
+    },
+    {
+        "ScheduleMacroId" : 579597627,
+        "MacroName" : "숙제_목",
+        "MSecsFromEpochUTCStartTime" : "1756911900000",
+        "MSecsRepeatTime" : "604800000"
+    },
+    {
+        "ScheduleMacroId" : 1498430413,
+        "MacroName" : "숙제_금",
+        "MSecsFromEpochUTCStartTime" : "1756998300000",
+        "MSecsRepeatTime" : "604800000"
+    },
+    {
+        "ScheduleMacroId" : 541164866,
+        "MacroName" : "숙제확인_월.화.수_08",
+        "MSecsFromEpochUTCStartTime" : "1756692300000",
+        "MSecsRepeatTime" : "604800000"
+    },
+    {
+        "ScheduleMacroId" : 790509897,
+        "MacroName" : "숙제확인_월.화.수_08",
+        "MSecsFromEpochUTCStartTime" : "1756778700000",
+        "MSecsRepeatTime" : "604800000"
+    },
+    {
+        "ScheduleMacroId" : 983883427,
+        "MacroName" : "숙제확인_월.화.수_08",
+        "MSecsFromEpochUTCStartTime" : "1756865100000",
+        "MSecsRepeatTime" : "604800000"
+    },
+    {
+        "ScheduleMacroId" : 110237420,
+        "MacroName" : "숙제확인_목.금.토_09",
+        "MSecsFromEpochUTCStartTime" : "1756951500000",
+        "MSecsRepeatTime" : "604800000"
+    },
+    {
+        "ScheduleMacroId" : 11357507,
+        "MacroName" : "숙제확인_목.금.토_09",
+        "MSecsFromEpochUTCStartTime" : "1756433100000",
+        "MSecsRepeatTime" : "604800000"
+    },
+    {
+        "ScheduleMacroId" : 600518911,
+        "MacroName" : "숙제확인_목.금.토_09",
+        "MSecsFromEpochUTCStartTime" : "1756519500000",
+        "MSecsRepeatTime" : "604800000"
+    },
+    {
+        "ScheduleMacroId" : 1216356559,
+        "MacroName" : "숙제_일",
+        "MSecsFromEpochUTCStartTime" : "1756566300000",
+        "MSecsRepeatTime" : "604800000"
+    },
+    {
+        "ScheduleMacroId" : 712501408,
+        "MacroName" : "숙제확인_일_10",
+        "MSecsFromEpochUTCStartTime" : "1756605900000",
+        "MSecsRepeatTime" : "604800000"
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "Events": [
+        {
+            "EventType": "UiRecentApps",
+            "Timestamp": 1459
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 4708,
+            "X": 90.93000030517578,
+            "Y": 6.550000190734863
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 4797,
+            "X": 90.93000030517578,
+            "Y": 6.550000190734863
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 8224,
+            "X": 89.88999938964844,
+            "Y": 3.200000047683716
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 8346,
+            "X": 89.88999938964844,
+            "Y": 3.200000047683716
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "Events": [
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 738,
+            "X": 50.25,
+            "Y": 96.3499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 818,
+            "X": 50.25,
+            "Y": 96.3499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 4351,
+            "X": 93.26000213623047,
+            "Y": 18.799999237060547
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 4463,
+            "X": 93.26000213623047,
+            "Y": 18.799999237060547
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 7937,
+            "X": 26.940000534057617,
+            "Y": 79.87999725341797
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 8041,
+            "X": 26.940000534057617,
+            "Y": 79.87999725341797
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 10916,
+            "X": 31.079999923706055,
+            "Y": 54.5099983215332
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 10921,
+            "X": 31.079999923706055,
+            "Y": 54.369998931884766
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 11034,
+            "X": 31.079999923706055,
+            "Y": 54.369998931884766
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 13501,
+            "X": 15.020000457763672,
+            "Y": 95.33000183105469
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 13622,
+            "X": 15.020000457763672,
+            "Y": 95.33000183105469
+        }
+    ]
+}
