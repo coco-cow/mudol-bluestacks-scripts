@@ -1,0 +1,71 @@
+{
+    "Events": [
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 1043,
+            "X": 50.52000045776367,
+            "Y": 98.97000122070312
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 1047,
+            "X": 50,
+            "Y": 99.26000213623047
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 1070,
+            "X": 49.72999954223633,
+            "Y": 99.41000366210938
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 1077,
+            "X": 49.72999954223633,
+            "Y": 99.55999755859375
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 1153,
+            "X": 49.72999954223633,
+            "Y": 99.55999755859375
+        },
+        {
+            "EventType": "UiRecentApps",
+            "Timestamp": 4275
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 7651,
+            "X": 91.91999816894531,
+            "Y": 4.829999923706055
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 7716,
+            "X": 91.91999816894531,
+            "Y": 4.829999923706055
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 11003,
+            "X": 89.31999969482422,
+            "Y": 6.300000190734863
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 11083,
+            "X": 89.31999969482422,
+            "Y": 6.300000190734863
+        }
+    ]
+}

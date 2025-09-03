@@ -1,0 +1,81 @@
+{
+    "Events": [
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 788,
+            "X": 14.020000457763672,
+            "Y": 97.31999969482422
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 874,
+            "X": 14.020000457763672,
+            "Y": 97.16999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 880,
+            "X": 14.020000457763672,
+            "Y": 97.16999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 4615,
+            "X": 94.44000244140625,
+            "Y": 27.079999923706055
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 4631,
+            "X": 94.44000244140625,
+            "Y": 27.079999923706055
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 8481,
+            "X": 43.90999984741211,
+            "Y": 11.300000190734863
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 8577,
+            "X": 43.90999984741211,
+            "Y": 11.300000190734863
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 12174,
+            "X": 54.22999954223633,
+            "Y": 90.16999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 12229,
+            "X": 54.22999954223633,
+            "Y": 90.16999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 16064,
+            "X": 15.600000381469727,
+            "Y": 96.12999725341797
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 16137,
+            "X": 15.600000381469727,
+            "Y": 96.12999725341797
+        }
+    ]
+}

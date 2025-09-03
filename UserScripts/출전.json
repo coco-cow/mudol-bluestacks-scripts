@@ -1,0 +1,46 @@
+{
+    "Events": [
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 827,
+            "X": 14.8100004196167,
+            "Y": 95.83000183105469
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 914,
+            "X": 14.8100004196167,
+            "Y": 95.83000183105469
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 3955,
+            "X": 41.2599983215332,
+            "Y": 96.12999725341797
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 4012,
+            "X": 41.2599983215332,
+            "Y": 96.12999725341797
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 9904,
+            "X": 53.16999816894531,
+            "Y": 91.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 9975,
+            "X": 53.16999816894531,
+            "Y": 91.36000061035156
+        }
+    ]
+}
