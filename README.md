@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=mudol-bluestacks-scripts&fontSize=60)
 
+```
+UserScripts 폴더 안의 매크로들을 다운받고 사용자 PC C:\ProgramData\BlueStacks_nxt\Engine\UserData\InputMapper\UserScripts 경로에 다운 받은 매크로 파일을 위치시킵니다.
+```
+
 ## 1. 블루스텍 설정
 
 #### 블루스텍 멀티 인스턴스 관리자 프로그램을 실행시킵니다.
