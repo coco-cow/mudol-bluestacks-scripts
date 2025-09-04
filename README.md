@@ -24,6 +24,7 @@
 
 #### 게임내 설정을 아래 캡처 화면과 같이 설정합니다.
 <img width="720" height="1280" alt="Screenshot_2025 09 03_15 41 59 759" src="https://github.com/user-attachments/assets/55c209b4-517f-47a0-9df6-20a777bfc019" /> | <img width="720" height="1280" alt="Screenshot_2025 09 03_15 42 01 575" src="https://github.com/user-attachments/assets/1f375bdb-c3bf-4ebb-a79c-a7c6aa02cdab" />
+---|---|
 
 ## 3. 프리셋 설정
 
