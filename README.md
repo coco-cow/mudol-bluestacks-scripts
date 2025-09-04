@@ -14,7 +14,7 @@
 <img width="830" height="580" alt="화면 캡처 2025-09-03 153830" src="https://github.com/user-attachments/assets/b33173b1-8ddc-4700-b83f-13fc7996d487" />
 <img width="830" height="580" alt="화면 캡처 2025-09-03 153835" src="https://github.com/user-attachments/assets/5edb18b7-beff-4d6f-b655-88a074a11e43" />
 
-#### 그 후 인스턴스를 실행시킵니다.
+#### 그 후 인스턴스를 실행시킵니다. `(앱은 반드시 저 위치를 지켜주시기 바랍니다)`
 <img width="568" height="984" alt="화면 캡처 2025-09-03 153856" src="https://github.com/user-attachments/assets/d7238fb9-b7e0-4234-a443-b90d435cbc83" />
 
 #### `인스턴스 우측 하단 설정` 아이콘 클릭 후 아래 캡처 화면과 같이 설정합니다.
