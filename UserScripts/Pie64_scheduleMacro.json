@@ -82,5 +82,11 @@
         "MacroName" : "숙제확인_일",
         "MSecsFromEpochUTCStartTime" : "1757214600000",
         "MSecsRepeatTime" : "604800000"
+    },
+    {
+        "ScheduleMacroId" : 1466255756,
+        "MacroName" : "숙제확인_월_주간보상수령",
+        "MSecsFromEpochUTCStartTime" : "1757278800000",
+        "MSecsRepeatTime" : "604800000"
     }
 ]
