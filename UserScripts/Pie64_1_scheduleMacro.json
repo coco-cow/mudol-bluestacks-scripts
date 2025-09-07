@@ -1,7 +1,7 @@
 [
     {
         "ScheduleMacroId" : 1234594388,
-        "MacroName" : "숙제_월.토",
+        "MacroName" : "숙제_월",
         "MSecsFromEpochUTCStartTime" : "1757257800000",
         "MSecsRepeatTime" : "604800000"
     },
@@ -27,12 +27,6 @@
         "ScheduleMacroId" : 505372724,
         "MacroName" : "숙제_금",
         "MSecsFromEpochUTCStartTime" : "1756998600000",
-        "MSecsRepeatTime" : "604800000"
-    },
-    {
-        "ScheduleMacroId" : 1141556989,
-        "MacroName" : "숙제_월.토",
-        "MSecsFromEpochUTCStartTime" : "1757085000000",
         "MSecsRepeatTime" : "604800000"
     },
     {
@@ -87,6 +81,12 @@
         "ScheduleMacroId" : 1466255756,
         "MacroName" : "숙제확인_월_주간보상수령",
         "MSecsFromEpochUTCStartTime" : "1757278800000",
+        "MSecsRepeatTime" : "604800000"
+    },
+    {
+        "ScheduleMacroId" : 1697073208,
+        "MacroName" : "숙제_토",
+        "MSecsFromEpochUTCStartTime" : "1757085000000",
         "MSecsRepeatTime" : "604800000"
     }
 ]
