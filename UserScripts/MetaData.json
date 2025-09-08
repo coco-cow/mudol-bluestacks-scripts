@@ -473,6 +473,15 @@
                     "LoopInterval": 0,
                     "LoopIterations": 1,
                     "MacrosToRun": [
+                        "모험입장"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
                         "보상_내성"
                     ]
                 },
@@ -3386,7 +3395,7 @@
         {
             "ID": 31,
             "IsFolder": true,
-            "IsOpen": false,
+            "IsOpen": true,
             "IsVisible": true,
             "Name": "보상",
             "Order": -1,
@@ -3396,7 +3405,7 @@
             "ID": 34,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "1-------------------------",
             "Order": -1,
             "ParentFolder": 31
@@ -3405,7 +3414,7 @@
             "ID": 3,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "보상_내성",
             "Order": -1,
             "ParentFolder": 31
@@ -3414,7 +3423,7 @@
             "ID": 5,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "보상_내성외",
             "Order": -1,
             "ParentFolder": 31
@@ -3423,7 +3432,7 @@
             "ID": 4,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "보상_은열쇠x1",
             "Order": -1,
             "ParentFolder": 31
@@ -3432,7 +3441,7 @@
             "ID": 6,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "보상_임무",
             "Order": 11,
             "ParentFolder": 31
@@ -3441,7 +3450,7 @@
             "ID": 7,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "보상_만두",
             "Order": -1,
             "ParentFolder": 31
@@ -3450,7 +3459,7 @@
             "ID": 76,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "보상_연합",
             "Order": -1,
             "ParentFolder": 31
@@ -3459,7 +3468,7 @@
             "ID": 59,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "보상수령",
             "Order": -1,
             "ParentFolder": 31
@@ -3468,7 +3477,7 @@
             "ID": 119,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "보상_한정사건",
             "Order": -1,
             "ParentFolder": 31
@@ -3477,7 +3486,7 @@
             "ID": 123,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "보상_주간",
             "Order": -1,
             "ParentFolder": 31
@@ -4115,7 +4124,7 @@
         {
             "ID": 75,
             "IsFolder": true,
-            "IsOpen": true,
+            "IsOpen": false,
             "IsVisible": true,
             "Name": "숙제",
             "Order": -1,
@@ -4125,7 +4134,7 @@
             "ID": 67,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제_공통_S",
             "Order": -1,
             "ParentFolder": 75
@@ -4134,7 +4143,7 @@
             "ID": 68,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제_공통_E",
             "Order": -1,
             "ParentFolder": 75
@@ -4143,7 +4152,7 @@
             "ID": 69,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제_월",
             "Order": 1,
             "ParentFolder": 75
@@ -4152,7 +4161,7 @@
             "ID": 70,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제_화",
             "Order": -1,
             "ParentFolder": 75
@@ -4161,7 +4170,7 @@
             "ID": 71,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제_수",
             "Order": -1,
             "ParentFolder": 75
@@ -4170,7 +4179,7 @@
             "ID": 72,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제_목",
             "Order": -1,
             "ParentFolder": 75
@@ -4179,7 +4188,7 @@
             "ID": 73,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제_금",
             "Order": -1,
             "ParentFolder": 75
@@ -4188,7 +4197,7 @@
             "ID": 125,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제_토",
             "Order": -1,
             "ParentFolder": 75
@@ -4197,7 +4206,7 @@
             "ID": 74,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제_일",
             "Order": -1,
             "ParentFolder": 75
@@ -4206,7 +4215,7 @@
             "ID": 124,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제확인_월_주간보상수령",
             "Order": -1,
             "ParentFolder": 75
@@ -4215,7 +4224,7 @@
             "ID": 115,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제확인_월.화.목.토",
             "Order": -1,
             "ParentFolder": 75
@@ -4224,7 +4233,7 @@
             "ID": 116,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제확인_수.금",
             "Order": 6,
             "ParentFolder": 75
@@ -4233,7 +4242,7 @@
             "ID": 117,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제확인_일",
             "Order": 2,
             "ParentFolder": 75
