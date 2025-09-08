@@ -2375,24 +2375,6 @@
                     "LoopInterval": 0,
                     "LoopIterations": 1,
                     "MacrosToRun": [
-                        "소탕_투기장"
-                    ]
-                },
-                {
-                    "Acceleration": 1,
-                    "DelayNextScript": 0,
-                    "LoopInterval": 0,
-                    "LoopIterations": 1,
-                    "MacrosToRun": [
-                        "소탕_결투장"
-                    ]
-                },
-                {
-                    "Acceleration": 1,
-                    "DelayNextScript": 0,
-                    "LoopInterval": 0,
-                    "LoopIterations": 1,
-                    "MacrosToRun": [
                         "보상_임무"
                     ]
                 },
@@ -2524,6 +2506,15 @@
                     "LoopInterval": 0,
                     "LoopIterations": 1,
                     "MacrosToRun": [
+                        "소탕_결투장"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
                         "숙제_공통_E"
                     ]
                 }
@@ -2577,6 +2568,15 @@
                     "LoopIterations": 1,
                     "MacrosToRun": [
                         "소탕_연의_x9"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "소탕_결투장"
                     ]
                 },
                 {
@@ -2646,6 +2646,15 @@
                     "LoopInterval": 0,
                     "LoopIterations": 1,
                     "MacrosToRun": [
+                        "소탕_결투장"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
                         "숙제_공통_E"
                     ]
                 }
@@ -2707,6 +2716,15 @@
                     "LoopInterval": 0,
                     "LoopIterations": 1,
                     "MacrosToRun": [
+                        "소탕_결투장"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
                         "숙제_공통_E"
                     ]
                 }
@@ -2720,7 +2738,7 @@
         {
             "Acceleration": 1,
             "CreationTime": "20250906T203849",
-            "DoNotShowWindowOnFinish": false,
+            "DoNotShowWindowOnFinish": true,
             "LoopDuration": 0,
             "LoopInterval": 0,
             "LoopIterations": 1,
@@ -2769,6 +2787,15 @@
                     "LoopIterations": 1,
                     "MacrosToRun": [
                         "소탕_연의_x8"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "소탕_결투장"
                     ]
                 },
                 {
@@ -2847,6 +2874,15 @@
                     "LoopInterval": 0,
                     "LoopIterations": 1,
                     "MacrosToRun": [
+                        "소탕_결투장"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
                         "숙제_공통_E"
                     ]
                 }
@@ -2860,7 +2896,7 @@
         {
             "Acceleration": 1,
             "CreationTime": "20250904T143846",
-            "DoNotShowWindowOnFinish": false,
+            "DoNotShowWindowOnFinish": true,
             "LoopDuration": 0,
             "LoopInterval": 0,
             "LoopIterations": 1,
@@ -3317,7 +3353,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "일반프리셋_6",
-            "Order": 27,
+            "Order": 28,
             "ParentFolder": 28
         },
         {
@@ -3398,7 +3434,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "보상_임무",
-            "Order": 10,
+            "Order": 11,
             "ParentFolder": 31
         },
         {
@@ -3578,7 +3614,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "소탕_투기장",
-            "Order": 2,
+            "Order": 3,
             "ParentFolder": 32
         },
         {
@@ -3596,7 +3632,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "소탕_일일사건_19",
-            "Order": 23,
+            "Order": 24,
             "ParentFolder": 32
         },
         {
@@ -3605,7 +3641,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "소탕_일일사건_29",
-            "Order": 22,
+            "Order": 23,
             "ParentFolder": 32
         },
         {
@@ -3731,7 +3767,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "소탕_연합대전_선",
-            "Order": 6,
+            "Order": 7,
             "ParentFolder": 32
         },
         {
@@ -3848,7 +3884,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "와리가리x4+필살기",
-            "Order": 41,
+            "Order": 42,
             "ParentFolder": 41
         },
         {
@@ -3893,7 +3929,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "손탕x5",
-            "Order": 39,
+            "Order": 40,
             "ParentFolder": 41
         },
         {
@@ -3902,7 +3938,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "손탕x4",
-            "Order": 38,
+            "Order": 39,
             "ParentFolder": 41
         },
         {
@@ -3974,7 +4010,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "대전프리셋_10_선",
-            "Order": 35,
+            "Order": 36,
             "ParentFolder": 90
         },
         {
@@ -4028,7 +4064,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "한계돌파_입장",
-            "Order": 28,
+            "Order": 29,
             "ParentFolder": 104
         },
         {
@@ -4046,7 +4082,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "한계돌파_와리가리",
-            "Order": 17,
+            "Order": 18,
             "ParentFolder": 104
         },
         {
@@ -4055,7 +4091,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "한계돌파_손탕",
-            "Order": 14,
+            "Order": 15,
             "ParentFolder": 104
         },
         {
@@ -4064,7 +4100,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "한계돌파_여의주충전",
-            "Order": 13,
+            "Order": 14,
             "ParentFolder": 104
         },
         {
@@ -4109,7 +4145,7 @@
             "IsOpen": false,
             "IsVisible": true,
             "Name": "숙제_월",
-            "Order": -1,
+            "Order": 1,
             "ParentFolder": 75
         },
         {
@@ -4190,7 +4226,7 @@
             "IsOpen": false,
             "IsVisible": true,
             "Name": "숙제확인_수.금",
-            "Order": 5,
+            "Order": 6,
             "ParentFolder": 75
         },
         {
@@ -4199,7 +4235,7 @@
             "IsOpen": false,
             "IsVisible": true,
             "Name": "숙제확인_일",
-            "Order": 1,
+            "Order": 2,
             "ParentFolder": 75
         }
     ],
