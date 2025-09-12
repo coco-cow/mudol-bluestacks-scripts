@@ -35,10 +35,8 @@
 <img width="720" height="1280" alt="Screenshot_2025 09 03_15 40 51 325" src="https://github.com/user-attachments/assets/8e888539-31f5-4f79-8764-f61f2d15896e" />
 
 ####  `대전 프리셋 8번`, `대전 프리셋 9번`, `대전 프리셋 10번` 은 연합대전에서 사용되며 `대전 프리셋 8번` 은 중덱 `대전 프리셋 9번` 은 후덱 `대전 프리셋 10번` 은 선봉덱입니다.
-<img width="720" height="1280" alt="Screenshot_2025 09 03_15 41 31 825" src="https://github.com/user-attachments/assets/bb69afac-1acc-4455-9323-78b98c6fa582" />
-<img width="720" height="1280" alt="Screenshot_2025 09 03_15 41 36 008" src="https://github.com/user-attachments/assets/d078d468-9d9c-4fd6-925c-1e66009ecb19" />
-<img width="720" height="1280" alt="Screenshot_2025 09 03_15 41 34 075" src="https://github.com/user-attachments/assets/39b8b00b-d10a-476a-af9b-8aae6b7d8c8c" />
-
+<img width="720" height="1280" alt="Screenshot_2025 09 03_15 41 31 825" src="https://github.com/user-attachments/assets/bb69afac-1acc-4455-9323-78b98c6fa582" /> | <img width="720" height="1280" alt="Screenshot_2025 09 03_15 41 36 008" src="https://github.com/user-attachments/assets/d078d468-9d9c-4fd6-925c-1e66009ecb19" /> | <img width="720" height="1280" alt="Screenshot_2025 09 03_15 41 34 075" src="https://github.com/user-attachments/assets/39b8b00b-d10a-476a-af9b-8aae6b7d8c8c" />
+---|---|---|
 ## 4. 한정 사건 설정
 
 ####  `한정사건은 매번 입장순서가 바뀌기에 매크로를 사용하기 위해서는 입장순서를 세팅해줘야 합니다. 이를 원치 않는 경우 한정사건은 매크로에서 제외하시면 됩니다.`
