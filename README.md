@@ -29,10 +29,9 @@
 ## 3. 프리셋 설정
 
 ####  `일반 프리셋 2번` 은 보급창고/훈련도감과 같은 기본적인 컨텐츠 소탕에 사용되며 추천 조합은 `여포+초선+동탁` 입니다.
-<img width="720" height="1280" alt="Screenshot_2025 09 03_15 40 39 325" src="https://github.com/user-attachments/assets/01d769ae-eb15-4378-9f6e-5969cee13716" />
-
 ####  `일반 프리셋 6번` 은 한계돌파 소탕때 사용되며 추천 조합은 `하후은+정보+산타손책` 이고 하후은의 첫번째 스킬이 반드시 만렙이여야 합니다.
-<img width="720" height="1280" alt="Screenshot_2025 09 03_15 40 51 325" src="https://github.com/user-attachments/assets/8e888539-31f5-4f79-8764-f61f2d15896e" />
+<img width="720" height="1280" alt="Screenshot_2025 09 03_15 40 39 325" src="https://github.com/user-attachments/assets/01d769ae-eb15-4378-9f6e-5969cee13716" /> | <img width="720" height="1280" alt="Screenshot_2025 09 03_15 40 51 325" src="https://github.com/user-attachments/assets/8e888539-31f5-4f79-8764-f61f2d15896e" />
+---|---|
 
 ####  `대전 프리셋 8번`, `대전 프리셋 9번`, `대전 프리셋 10번` 은 연합대전에서 사용되며 `대전 프리셋 8번` 은 중덱 `대전 프리셋 9번` 은 후덱 `대전 프리셋 10번` 은 선봉덱입니다.
 <img width="720" height="1280" alt="Screenshot_2025 09 03_15 41 31 825" src="https://github.com/user-attachments/assets/bb69afac-1acc-4455-9323-78b98c6fa582" /> | <img width="720" height="1280" alt="Screenshot_2025 09 03_15 41 36 008" src="https://github.com/user-attachments/assets/d078d468-9d9c-4fd6-925c-1e66009ecb19" /> | <img width="720" height="1280" alt="Screenshot_2025 09 03_15 41 34 075" src="https://github.com/user-attachments/assets/39b8b00b-d10a-476a-af9b-8aae6b7d8c8c" />
