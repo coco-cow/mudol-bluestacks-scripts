@@ -31,9 +31,6 @@
 ####  `일반 프리셋 2번` 은 보급창고/훈련도감과 같은 기본적인 컨텐츠 소탕에 사용되며 추천 조합은 `여포+초선+동탁` 입니다.
 <img width="720" height="1280" alt="Screenshot_2025 09 03_15 40 39 325" src="https://github.com/user-attachments/assets/01d769ae-eb15-4378-9f6e-5969cee13716" />
 
-####  `일반 프리셋 3번`, `일반 프리셋 4번`, `일반 프리셋 5번` 은 한정사건 소탕에 사용되며 설정 방법은 4번을 참고하시면 됩니다.
-<img width="720" height="1280" alt="Screenshot_2025 09 03_15 40 47 675" src="https://github.com/user-attachments/assets/9891277b-33c6-4b0d-af5a-ff5fac2309e8" />
-
 ####  `일반 프리셋 6번` 은 한계돌파 소탕때 사용되며 추천 조합은 `하후은+정보+산타손책` 이고 하후은의 첫번째 스킬이 반드시 만렙이여야 합니다.
 <img width="720" height="1280" alt="Screenshot_2025 09 03_15 40 51 325" src="https://github.com/user-attachments/assets/8e888539-31f5-4f79-8764-f61f2d15896e" />
 
@@ -44,12 +41,12 @@
 
 ## 4. 한정 사건 설정
 
-####  `한정사건은 매번 입장순서나 보너스무장이 바뀌기에 매크로를 사용하기 위해서는 입장순서나 보너스무장에 맞춰 매번 설정해 주어야 합니다. 이를 원치 않는 경우 한정사건은 매크로에서 제외하시면 됩니다.`
+####  `한정사건은 매번 입장순서나 보너스무장이 바뀌기에 매크로를 사용하기 위해서는 입장순서를 세팅해줘야 합니다. 이를 원치 않는 경우 한정사건은 매크로에서 제외하시면 됩니다.`
 
 ####  `인스턴스 우측 상단에서 7번째에 있는 재생버튼 아이콘`을 클릭하여 `매크로 관리자 팝업`을 `실행`합니다.
-<img width="568" height="984" alt="화면 캡처 2025-09-03 153856" src="https://github.com/user-attachments/assets/b3963513-019f-4f0b-bbdf-2a9be933a91a" />
+<img width="568" height="984" alt="화면 캡처 2025-09-03 153856" src="https://github.com/user-attachments/assets/b3963513-019f-4f0b-bbdf-2a9be933a91a" /> |
 <img width="670" height="603" alt="화면 캡처 2025-09-03 154236" src="https://github.com/user-attachments/assets/5540e4a5-eb80-4398-847f-a0902fe3a186" />
-
+---|---|
 ####  '[한정사건의 프리셋을 변경하고 싶은 경우]' 예시로 첫번째 한정사건의 프리셋을 바꾸고 싶은경우 `한정사건 소탕' 폴더에 귀속된 '소탕_한정사건_14' 매크로 우측에 있는 재생 아이콘 옆 '병합 아이콘'을 '클릭'하여 병합된 매크로에서 원하는 프리셋으로 수정해주시면 됩니다.
 <img width="632" height="432" alt="화면 캡처 2025-09-03 154254" src="https://github.com/user-attachments/assets/30fca596-fa7d-44e6-a86c-c165d34bf0c4" />
 
