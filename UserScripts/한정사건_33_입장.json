@@ -1,0 +1,88 @@
+{
+    "Events": [
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 1028,
+            "X": 49.06999969482422,
+            "Y": 98.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 1127,
+            "X": 49.06999969482422,
+            "Y": 98.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 5172,
+            "X": 92.12000274658203,
+            "Y": 18.479999542236328
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 5244,
+            "X": 92.12000274658203,
+            "Y": 18.479999542236328
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 9461,
+            "X": 67.81999969482422,
+            "Y": 10.279999732971191
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 9579,
+            "X": 67.81999969482422,
+            "Y": 10.279999732971191
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 13978,
+            "X": 27.309999465942383,
+            "Y": 46.869998931884766
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 14078,
+            "X": 27.309999465942383,
+            "Y": 46.869998931884766
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 19012,
+            "X": 14.350000381469727,
+            "Y": 70.44000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 19127,
+            "X": 14.350000381469727,
+            "Y": 70.44000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 23012,
+            "X": 16.889999389648438,
+            "Y": 96.22000122070312
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 23128,
+            "X": 16.889999389648438,
+            "Y": 96.22000122070312
+        }
+    ]
+}
