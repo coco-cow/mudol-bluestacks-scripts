@@ -16,15 +16,6 @@
                     "LoopInterval": 0,
                     "LoopIterations": 1,
                     "MacrosToRun": [
-                        "소탕_한정사건_14"
-                    ]
-                },
-                {
-                    "Acceleration": 1,
-                    "DelayNextScript": 0,
-                    "LoopInterval": 0,
-                    "LoopIterations": 1,
-                    "MacrosToRun": [
                         "소탕_한정사건_24"
                     ]
                 }
@@ -212,7 +203,7 @@
                     "LoopInterval": 0,
                     "LoopIterations": 1,
                     "MacrosToRun": [
-                        "보상_내성(성채x)"
+                        "보상_내성(성채x)_v2"
                     ]
                 },
                 {
@@ -301,6 +292,22 @@
             "MergeConfigurations": [
             ],
             "Name": "보상_내성(성채x)",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20251021T090018",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "보상_내성(성채x)_v2",
             "RestartPlayer": false,
             "RestartPlayerAfterMinutes": 60,
             "Shortcut": "",
@@ -3590,6 +3597,15 @@
                     "LoopInterval": 0,
                     "LoopIterations": 1,
                     "MacrosToRun": [
+                        "구매_주간상점"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
                         "보상_임무"
                     ]
                 },
@@ -3697,6 +3713,15 @@
                     "LoopIterations": 1,
                     "MacrosToRun": [
                         "보상_임무"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "보상_우편함v2"
                     ]
                 },
                 {
@@ -4042,47 +4067,6 @@
         },
         {
             "Acceleration": 1,
-            "CreationTime": "20251008T204055",
-            "DoNotShowWindowOnFinish": false,
-            "LoopDuration": 0,
-            "LoopInterval": 0,
-            "LoopIterations": 1,
-            "LoopType": "TillLoopNumber",
-            "MergeConfigurations": [
-            ],
-            "Name": "매크로 (164)",
-            "RestartPlayer": false,
-            "RestartPlayerAfterMinutes": 60,
-            "Shortcut": "",
-            "StopOnHomeScreen": false
-        },
-        {
-            "Acceleration": 1,
-            "CreationTime": "20251008T204140",
-            "DoNotShowWindowOnFinish": false,
-            "LoopDuration": 0,
-            "LoopInterval": 0,
-            "LoopIterations": 1,
-            "LoopType": "TillLoopNumber",
-            "MergeConfigurations": [
-                {
-                    "Acceleration": 1,
-                    "DelayNextScript": 0,
-                    "LoopInterval": 0,
-                    "LoopIterations": 50,
-                    "MacrosToRun": [
-                        "매크로 (164)"
-                    ]
-                }
-            ],
-            "Name": "매크로 (165)",
-            "RestartPlayer": false,
-            "RestartPlayerAfterMinutes": 60,
-            "Shortcut": "",
-            "StopOnHomeScreen": false
-        },
-        {
-            "Acceleration": 1,
             "CreationTime": "20251009T131205",
             "DoNotShowWindowOnFinish": false,
             "LoopDuration": 0,
@@ -4275,7 +4259,7 @@
                     ]
                 },
                 {
-                    "Acceleration": 1,
+                    "Acceleration": 0.5,
                     "DelayNextScript": 0,
                     "LoopInterval": 0,
                     "LoopIterations": 1,
@@ -4284,7 +4268,7 @@
                     ]
                 },
                 {
-                    "Acceleration": 1,
+                    "Acceleration": 0.5,
                     "DelayNextScript": 0,
                     "LoopInterval": 0,
                     "LoopIterations": 1,
@@ -4303,6 +4287,72 @@
                 }
             ],
             "Name": "구매_관문돌파_02",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20251020T115019",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "입장_상점",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20251020T114754",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "구매_상점(주간)",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20251020T134418",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "입장_상점"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "구매_상점(주간)"
+                    ]
+                }
+            ],
+            "Name": "구매_주간상점",
             "RestartPlayer": false,
             "RestartPlayerAfterMinutes": 60,
             "Shortcut": "",
@@ -4523,9 +4573,66 @@
             "RestartPlayerAfterMinutes": 60,
             "Shortcut": "",
             "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20251021T085805",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "매크로 (206)",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20251021T085812",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "매크로 (207)",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20251021T085847",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 10,
+                    "MacrosToRun": [
+                        "매크로 (207)"
+                    ]
+                }
+            ],
+            "Name": "매크로 (208)",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
         }
     ],
-    "NextMacroId": 202,
+    "NextMacroId": 210,
     "Organization": [
         {
             "ID": 64,
@@ -4551,7 +4658,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "일반프리셋_2",
-            "Order": 25,
+            "Order": 29,
             "ParentFolder": 28
         },
         {
@@ -4596,7 +4703,7 @@
             "IsOpen": false,
             "IsVisible": true,
             "Name": "게입입장",
-            "Order": 29,
+            "Order": 33,
             "ParentFolder": -1
         },
         {
@@ -4614,13 +4721,13 @@
             "IsOpen": false,
             "IsVisible": true,
             "Name": "모험입장",
-            "Order": 33,
+            "Order": 37,
             "ParentFolder": -1
         },
         {
             "ID": 31,
             "IsFolder": true,
-            "IsOpen": true,
+            "IsOpen": false,
             "IsVisible": true,
             "Name": "보상",
             "Order": -1,
@@ -4630,7 +4737,7 @@
             "ID": 34,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "1-------------------------",
             "Order": -1,
             "ParentFolder": 31
@@ -4639,7 +4746,7 @@
             "ID": 59,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "보상수령",
             "Order": -1,
             "ParentFolder": 31
@@ -4648,26 +4755,35 @@
             "ID": 170,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "보상_성채탐험",
-            "Order": 2,
+            "Order": 10,
             "ParentFolder": 31
         },
         {
             "ID": 3,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "보상_내성",
-            "Order": 1,
+            "Order": 9,
             "ParentFolder": 31
         },
         {
             "ID": 171,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "보상_내성(성채x)",
+            "Order": -1,
+            "ParentFolder": 31
+        },
+        {
+            "ID": 178,
+            "IsFolder": false,
+            "IsOpen": true,
+            "IsVisible": false,
+            "Name": "보상_내성(성채x)_v2",
             "Order": -1,
             "ParentFolder": 31
         },
@@ -4675,7 +4791,7 @@
             "ID": 5,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "보상_내성외",
             "Order": -1,
             "ParentFolder": 31
@@ -4684,7 +4800,7 @@
             "ID": 4,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "보상_은열쇠x1",
             "Order": -1,
             "ParentFolder": 31
@@ -4693,16 +4809,16 @@
             "ID": 6,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "보상_임무",
-            "Order": 30,
+            "Order": 34,
             "ParentFolder": 31
         },
         {
             "ID": 7,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "보상_만두",
             "Order": -1,
             "ParentFolder": 31
@@ -4711,7 +4827,7 @@
             "ID": 76,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "보상_연합",
             "Order": -1,
             "ParentFolder": 31
@@ -4720,7 +4836,7 @@
             "ID": 119,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "보상_한정사건",
             "Order": -1,
             "ParentFolder": 31
@@ -4729,16 +4845,16 @@
             "ID": 123,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "보상_주간",
-            "Order": 28,
+            "Order": 32,
             "ParentFolder": 31
         },
         {
             "ID": 127,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "보상_주간_토너.도전",
             "Order": -1,
             "ParentFolder": 31
@@ -4747,16 +4863,16 @@
             "ID": 128,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "보상_우편함",
-            "Order": 17,
+            "Order": 21,
             "ParentFolder": 31
         },
         {
             "ID": 143,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "보상_우편함v2",
             "Order": -1,
             "ParentFolder": 31
@@ -4765,7 +4881,7 @@
             "ID": 129,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "보상_연합대전",
             "Order": -1,
             "ParentFolder": 31
@@ -4774,7 +4890,7 @@
             "ID": 144,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "보상_이벤트01",
             "Order": -1,
             "ParentFolder": 31
@@ -4956,7 +5072,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "소탕_한정사건_21",
-            "Order": 19,
+            "Order": 23,
             "ParentFolder": 32
         },
         {
@@ -5010,7 +5126,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "소탕_투기장",
-            "Order": 42,
+            "Order": 46,
             "ParentFolder": 32
         },
         {
@@ -5127,7 +5243,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "소탕_연합던전_1",
-            "Order": 34,
+            "Order": 38,
             "ParentFolder": 32
         },
         {
@@ -5163,7 +5279,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "소탕_연합대전_선",
-            "Order": 45,
+            "Order": 49,
             "ParentFolder": 32
         },
         {
@@ -5199,7 +5315,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "소탕_한계돌파",
-            "Order": -1,
+            "Order": 5,
             "ParentFolder": 32
         },
         {
@@ -5370,7 +5486,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "한정사건_보너스무장_세팅",
-            "Order": 24,
+            "Order": 28,
             "ParentFolder": 41
         },
         {
@@ -5577,7 +5693,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "숙제_월",
-            "Order": 10,
+            "Order": 7,
             "ParentFolder": 75
         },
         {
@@ -5586,7 +5702,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "숙제_화",
-            "Order": 5,
+            "Order": 4,
             "ParentFolder": 75
         },
         {
@@ -5595,7 +5711,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "숙제_수",
-            "Order": 20,
+            "Order": 24,
             "ParentFolder": 75
         },
         {
@@ -5604,7 +5720,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "숙제_목",
-            "Order": 18,
+            "Order": 22,
             "ParentFolder": 75
         },
         {
@@ -5613,7 +5729,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "숙제_금",
-            "Order": 16,
+            "Order": 20,
             "ParentFolder": 75
         },
         {
@@ -5622,7 +5738,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "숙제_토",
-            "Order": 13,
+            "Order": 17,
             "ParentFolder": 75
         },
         {
@@ -5631,7 +5747,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "숙제_일",
-            "Order": 12,
+            "Order": 16,
             "ParentFolder": 75
         },
         {
@@ -5649,7 +5765,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "숙제확인_월.화.목.토",
-            "Order": 4,
+            "Order": -1,
             "ParentFolder": 75
         },
         {
@@ -5658,7 +5774,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "숙제확인_수.금",
-            "Order": 14,
+            "Order": 18,
             "ParentFolder": 75
         },
         {
@@ -5667,7 +5783,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "숙제확인_일",
-            "Order": 11,
+            "Order": 15,
             "ParentFolder": 75
         },
         {
@@ -5689,27 +5805,9 @@
             "ParentFolder": 75
         },
         {
-            "ID": 141,
-            "IsFolder": false,
-            "IsOpen": false,
-            "IsVisible": true,
-            "Name": "매크로 (164)",
-            "Order": -1,
-            "ParentFolder": -1
-        },
-        {
-            "ID": 142,
-            "IsFolder": false,
-            "IsOpen": false,
-            "IsVisible": true,
-            "Name": "매크로 (165)",
-            "Order": 3,
-            "ParentFolder": -1
-        },
-        {
             "ID": 152,
             "IsFolder": true,
-            "IsOpen": false,
+            "IsOpen": true,
             "IsVisible": true,
             "Name": "구매",
             "Order": -1,
@@ -5719,7 +5817,7 @@
             "ID": 145,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "입장_상점_관문돌파",
             "Order": -1,
             "ParentFolder": 152
@@ -5728,7 +5826,7 @@
             "ID": 146,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "구매_관문돌파_장료x3",
             "Order": -1,
             "ParentFolder": 152
@@ -5737,7 +5835,7 @@
             "ID": 147,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "구매_관문돌파_주태x3",
             "Order": -1,
             "ParentFolder": 152
@@ -5746,7 +5844,7 @@
             "ID": 149,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "구매_관문돌파_동탁x1",
             "Order": -1,
             "ParentFolder": 152
@@ -5755,25 +5853,25 @@
             "ID": 150,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "구매_관문돌파_특강무기",
-            "Order": -1,
+            "Order": 2,
             "ParentFolder": 152
         },
         {
             "ID": 151,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "구매_관문돌파_특강방어",
-            "Order": -1,
+            "Order": 1,
             "ParentFolder": 152
         },
         {
             "ID": 153,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "구매_관문돌파_01",
             "Order": -1,
             "ParentFolder": 152
@@ -5782,16 +5880,43 @@
             "ID": 154,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "구매_관문돌파_02",
-            "Order": 8,
+            "Order": 13,
+            "ParentFolder": 152
+        },
+        {
+            "ID": 173,
+            "IsFolder": false,
+            "IsOpen": true,
+            "IsVisible": true,
+            "Name": "입장_상점",
+            "Order": -1,
+            "ParentFolder": 152
+        },
+        {
+            "ID": 172,
+            "IsFolder": false,
+            "IsOpen": true,
+            "IsVisible": true,
+            "Name": "구매_상점(주간)",
+            "Order": -1,
+            "ParentFolder": 152
+        },
+        {
+            "ID": 174,
+            "IsFolder": false,
+            "IsOpen": true,
+            "IsVisible": true,
+            "Name": "구매_주간상점",
+            "Order": -1,
             "ParentFolder": 152
         },
         {
             "ID": 165,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "7-------------------------",
             "Order": -1,
             "ParentFolder": 152
@@ -5885,6 +6010,33 @@
             "Name": "주간_무장합성",
             "Order": -1,
             "ParentFolder": 167
+        },
+        {
+            "ID": 175,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": true,
+            "Name": "매크로 (206)",
+            "Order": -1,
+            "ParentFolder": -1
+        },
+        {
+            "ID": 176,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": true,
+            "Name": "매크로 (207)",
+            "Order": -1,
+            "ParentFolder": -1
+        },
+        {
+            "ID": 177,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": true,
+            "Name": "매크로 (208)",
+            "Order": 3,
+            "ParentFolder": -1
         }
     ],
     "TabIndex": 0
