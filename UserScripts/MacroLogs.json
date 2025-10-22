@@ -1,6 +1,83 @@
 {
     "Logs": [
         {
+            "Activity": "매크로 (208)",
+            "Source": "BlueStacks App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20251022T091942"
+        },
+        {
+            "Activity": "매크로 (208)",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251022T091806"
+        },
+        {
+            "Activity": "BlueStacks App Player 1",
+            "Source": "BlueStacks App Player 1",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251022T091326"
+        },
+        {
+            "Activity": "BlueStacks App Player",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251022T091325"
+        },
+        {
+            "Activity": "숙제_수",
+            "Source": "BlueStacks App Player",
+            "Status": 2,
+            "Success": true,
+            "Timestamp": "20251022T014031"
+        },
+        {
+            "Activity": "숙제_수",
+            "Source": "BlueStacks App Player 1",
+            "Status": 2,
+            "Success": true,
+            "Timestamp": "20251022T014031"
+        },
+        {
+            "Activity": "숙제_수",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251022T005000"
+        },
+        {
+            "Activity": "숙제_수",
+            "Source": "BlueStacks App Player 1",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251022T005000"
+        },
+        {
+            "Activity": "BlueStacks App Player 1",
+            "Source": "BlueStacks App Player 1",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251022T004523"
+        },
+        {
+            "Activity": "BlueStacks App Player",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251022T004522"
+        },
+        {
+            "Activity": "BlueStacks App Player",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251021T111657"
+        },
+        {
             "Activity": "BlueStacks App Player 1",
             "Source": "BlueStacks App Player 1",
             "Status": 0,
