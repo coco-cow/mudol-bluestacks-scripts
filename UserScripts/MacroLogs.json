@@ -1,291 +1,704 @@
 {
     "Logs": [
         {
-            "Activity": "매크로 (208)",
-            "Source": "BlueStacks App Player",
-            "Status": 1,
-            "Success": true,
-            "Timestamp": "20251022T091942"
-        },
-        {
-            "Activity": "매크로 (208)",
-            "Source": "BlueStacks App Player",
+            "Activity": "BlueStacks App Player 2",
+            "Source": "BlueStacks App Player 2",
             "Status": 0,
             "Success": true,
-            "Timestamp": "20251022T091806"
+            "Timestamp": "20251203T101528"
         },
         {
             "Activity": "BlueStacks App Player 1",
             "Source": "BlueStacks App Player 1",
             "Status": 0,
             "Success": true,
-            "Timestamp": "20251022T091326"
+            "Timestamp": "20251203T101524"
         },
         {
             "Activity": "BlueStacks App Player",
             "Source": "BlueStacks App Player",
             "Status": 0,
             "Success": true,
-            "Timestamp": "20251022T091325"
-        },
-        {
-            "Activity": "숙제_수",
-            "Source": "BlueStacks App Player",
-            "Status": 2,
-            "Success": true,
-            "Timestamp": "20251022T014031"
-        },
-        {
-            "Activity": "숙제_수",
-            "Source": "BlueStacks App Player 1",
-            "Status": 2,
-            "Success": true,
-            "Timestamp": "20251022T014031"
-        },
-        {
-            "Activity": "숙제_수",
-            "Source": "BlueStacks App Player",
-            "Status": 0,
-            "Success": true,
-            "Timestamp": "20251022T005000"
-        },
-        {
-            "Activity": "숙제_수",
-            "Source": "BlueStacks App Player 1",
-            "Status": 0,
-            "Success": true,
-            "Timestamp": "20251022T005000"
-        },
-        {
-            "Activity": "BlueStacks App Player 1",
-            "Source": "BlueStacks App Player 1",
-            "Status": 0,
-            "Success": true,
-            "Timestamp": "20251022T004523"
-        },
-        {
-            "Activity": "BlueStacks App Player",
-            "Source": "BlueStacks App Player",
-            "Status": 0,
-            "Success": true,
-            "Timestamp": "20251022T004522"
-        },
-        {
-            "Activity": "BlueStacks App Player",
-            "Source": "BlueStacks App Player",
-            "Status": 0,
-            "Success": true,
-            "Timestamp": "20251021T111657"
-        },
-        {
-            "Activity": "BlueStacks App Player 1",
-            "Source": "BlueStacks App Player 1",
-            "Status": 0,
-            "Success": true,
-            "Timestamp": "20251021T111142"
-        },
-        {
-            "Activity": "BlueStacks App Player",
-            "Source": "BlueStacks App Player",
-            "Status": 0,
-            "Success": true,
-            "Timestamp": "20251021T111142"
-        },
-        {
-            "Activity": "구매_관문돌파_특강방어",
-            "Source": "BlueStacks App Player",
-            "Status": 2,
-            "Success": true,
-            "Timestamp": "20251021T090446"
-        },
-        {
-            "Activity": "구매_관문돌파_특강방어",
-            "Source": "BlueStacks App Player",
-            "Status": 0,
-            "Success": true,
-            "Timestamp": "20251021T090430"
-        },
-        {
-            "Activity": "구매_관문돌파_특강무기",
-            "Source": "BlueStacks App Player",
-            "Status": 1,
-            "Success": true,
-            "Timestamp": "20251021T090425"
-        },
-        {
-            "Activity": "구매_관문돌파_특강무기",
-            "Source": "BlueStacks App Player",
-            "Status": 0,
-            "Success": true,
-            "Timestamp": "20251021T090411"
+            "Timestamp": "20251203T101222"
         },
         {
             "Activity": "매크로 (208)",
             "Source": "BlueStacks App Player",
-            "Status": 1,
+            "Status": 2,
             "Success": true,
-            "Timestamp": "20251021T085959"
+            "Timestamp": "20251203T091758"
         },
         {
             "Activity": "매크로 (208)",
             "Source": "BlueStacks App Player",
             "Status": 0,
             "Success": true,
-            "Timestamp": "20251021T085849"
+            "Timestamp": "20251203T091401"
+        },
+        {
+            "Activity": "소탕_한계돌파x3",
+            "Source": "BlueStacks App Player",
+            "Status": 2,
+            "Success": true,
+            "Timestamp": "20251203T091315"
+        },
+        {
+            "Activity": "소탕_한계돌파x3",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251203T090443"
+        },
+        {
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251203T090013"
+        },
+        {
+            "Activity": "BlueStacks App Player 2",
+            "Source": "BlueStacks App Player 2",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251203T090010"
         },
         {
             "Activity": "BlueStacks App Player 1",
             "Source": "BlueStacks App Player 1",
             "Status": 0,
             "Success": true,
-            "Timestamp": "20251021T085630"
+            "Timestamp": "20251203T090008"
         },
         {
             "Activity": "BlueStacks App Player",
             "Source": "BlueStacks App Player",
             "Status": 0,
             "Success": true,
-            "Timestamp": "20251021T085629"
+            "Timestamp": "20251203T090006"
         },
         {
-            "Activity": "숙제_화",
-            "Source": "BlueStacks App Player 1",
+            "Activity": "숙제_수",
+            "Source": "BlueStacks App Player 3",
             "Status": 2,
             "Success": true,
-            "Timestamp": "20251021T014109"
+            "Timestamp": "20251203T025756"
         },
         {
-            "Activity": "숙제_화",
+            "Activity": "숙제_수",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251203T020459"
+        },
+        {
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251203T020030"
+        },
+        {
+            "Activity": "숙제_수",
+            "Source": "BlueStacks App Player 2",
+            "Status": 2,
+            "Success": true,
+            "Timestamp": "20251203T014257"
+        },
+        {
+            "Activity": "숙제_수",
             "Source": "BlueStacks App Player",
             "Status": 2,
             "Success": true,
-            "Timestamp": "20251021T014109"
+            "Timestamp": "20251203T014257"
         },
         {
-            "Activity": "숙제_화",
+            "Activity": "숙제_수",
+            "Source": "BlueStacks App Player 1",
+            "Status": 2,
+            "Success": true,
+            "Timestamp": "20251203T014257"
+        },
+        {
+            "Activity": "숙제_수",
             "Source": "BlueStacks App Player",
             "Status": 0,
             "Success": true,
-            "Timestamp": "20251021T005000"
+            "Timestamp": "20251203T005000"
         },
         {
-            "Activity": "숙제_화",
+            "Activity": "숙제_수",
             "Source": "BlueStacks App Player 1",
             "Status": 0,
             "Success": true,
-            "Timestamp": "20251021T005000"
+            "Timestamp": "20251203T005000"
+        },
+        {
+            "Activity": "숙제_수",
+            "Source": "BlueStacks App Player 2",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251203T005000"
+        },
+        {
+            "Activity": "BlueStacks App Player 2",
+            "Source": "BlueStacks App Player 2",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251203T004530"
         },
         {
             "Activity": "BlueStacks App Player 1",
             "Source": "BlueStacks App Player 1",
             "Status": 0,
             "Success": true,
-            "Timestamp": "20251021T004525"
+            "Timestamp": "20251203T004528"
         },
         {
             "Activity": "BlueStacks App Player",
             "Source": "BlueStacks App Player",
             "Status": 0,
             "Success": true,
-            "Timestamp": "20251021T004524"
+            "Timestamp": "20251203T004527"
         },
         {
-            "Activity": "소탕_한계돌파",
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T170814"
+        },
+        {
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T164448"
+        },
+        {
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T162022"
+        },
+        {
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T161754"
+        },
+        {
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T155900"
+        },
+        {
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T150616"
+        },
+        {
+            "Activity": "BlueStacks App Player",
             "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T150415"
+        },
+        {
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
             "Status": 1,
             "Success": true,
-            "Timestamp": "20251020T134021"
+            "Timestamp": "20251202T150409"
         },
         {
-            "Activity": "소탕_한계돌파",
+            "Activity": "대전프리셋_8_중",
+            "Source": "BlueStacks App Player 3",
+            "Status": 2,
+            "Success": true,
+            "Timestamp": "20251202T150340"
+        },
+        {
+            "Activity": "대전프리셋_8_중",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T150320"
+        },
+        {
+            "Activity": "소탕_연합대전_선",
+            "Source": "BlueStacks App Player 3",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20251202T145935"
+        },
+        {
+            "Activity": "소탕_연합대전_선",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T145844"
+        },
+        {
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T145454"
+        },
+        {
+            "Activity": "숙제확인_월.화.목.토",
+            "Source": "BlueStacks App Player 3",
+            "Status": 2,
+            "Success": true,
+            "Timestamp": "20251202T142301"
+        },
+        {
+            "Activity": "숙제확인_월.화.목.토",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T140500"
+        },
+        {
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T140026"
+        },
+        {
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T135952"
+        },
+        {
+            "Activity": "BlueStacks App Player 2",
+            "Source": "BlueStacks App Player 2",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T130921"
+        },
+        {
+            "Activity": "BlueStacks App Player 1",
+            "Source": "BlueStacks App Player 1",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T130919"
+        },
+        {
+            "Activity": "BlueStacks App Player",
             "Source": "BlueStacks App Player",
             "Status": 0,
             "Success": true,
-            "Timestamp": "20251020T133638"
+            "Timestamp": "20251202T130917"
+        },
+        {
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T130054"
         },
         {
             "Activity": "숙제확인_월.화.목.토",
             "Source": "BlueStacks App Player",
             "Status": 1,
             "Success": true,
-            "Timestamp": "20251020T133357"
+            "Timestamp": "20251202T125550"
+        },
+        {
+            "Activity": "숙제확인_월.화.목.토",
+            "Source": "BlueStacks App Player 1",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20251202T125549"
+        },
+        {
+            "Activity": "숙제확인_월.화.목.토",
+            "Source": "BlueStacks App Player 2",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20251202T125548"
+        },
+        {
+            "Activity": "숙제확인_월.화.목.토",
+            "Source": "BlueStacks App Player 1",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T125000"
         },
         {
             "Activity": "숙제확인_월.화.목.토",
             "Source": "BlueStacks App Player",
             "Status": 0,
             "Success": true,
-            "Timestamp": "20251020T133227"
+            "Timestamp": "20251202T125000"
         },
         {
-            "Activity": "숙제_월",
+            "Activity": "숙제확인_월.화.목.토",
+            "Source": "BlueStacks App Player 2",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T125000"
+        },
+        {
+            "Activity": "BlueStacks App Player 2",
+            "Source": "BlueStacks App Player 2",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T124526"
+        },
+        {
+            "Activity": "BlueStacks App Player 1",
+            "Source": "BlueStacks App Player 1",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T124524"
+        },
+        {
+            "Activity": "BlueStacks App Player",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T124523"
+        },
+        {
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T111406"
+        },
+        {
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T103152"
+        },
+        {
+            "Activity": "BlueStacks App Player",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T103049"
+        },
+        {
+            "Activity": "BlueStacks App Player 2",
+            "Source": "BlueStacks App Player 2",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T095846"
+        },
+        {
+            "Activity": "BlueStacks App Player 1",
+            "Source": "BlueStacks App Player 1",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T095844"
+        },
+        {
+            "Activity": "BlueStacks App Player",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T093311"
+        },
+        {
+            "Activity": "BlueStacks App Player 2",
+            "Source": "BlueStacks App Player 2",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20251202T092323"
+        },
+        {
+            "Activity": "BlueStacks App Player 1",
+            "Source": "BlueStacks App Player 1",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20251202T092323"
+        },
+        {
+            "Activity": "BlueStacks App Player",
             "Source": "BlueStacks App Player",
             "Status": 1,
             "Success": true,
-            "Timestamp": "20251020T133215"
+            "Timestamp": "20251202T092323"
         },
         {
-            "Activity": "숙제_월",
-            "Source": "BlueStacks App Player",
-            "Status": 0,
-            "Success": true,
-            "Timestamp": "20251020T132513"
-        },
-        {
-            "Activity": "BlueStacks App Player 1",
-            "Source": "BlueStacks App Player 1",
-            "Status": 0,
-            "Success": true,
-            "Timestamp": "20251020T132441"
-        },
-        {
-            "Activity": "BlueStacks App Player",
-            "Source": "BlueStacks App Player",
-            "Status": 0,
-            "Success": true,
-            "Timestamp": "20251020T132439"
-        },
-        {
-            "Activity": "BlueStacks App Player",
-            "Source": "BlueStacks App Player",
-            "Status": 0,
-            "Success": true,
-            "Timestamp": "20251020T110646"
-        },
-        {
-            "Activity": "BlueStacks App Player 1",
-            "Source": "BlueStacks App Player 1",
-            "Status": 0,
-            "Success": true,
-            "Timestamp": "20251020T110646"
-        },
-        {
-            "Activity": "매크로 (165)",
+            "Activity": "매크로 (208)",
             "Source": "BlueStacks App Player",
             "Status": 1,
             "Success": true,
-            "Timestamp": "20251020T091121"
+            "Timestamp": "20251202T092023"
         },
         {
-            "Activity": "매크로 (165)",
+            "Activity": "매크로 (208)",
             "Source": "BlueStacks App Player",
             "Status": 0,
             "Success": true,
-            "Timestamp": "20251020T091112"
+            "Timestamp": "20251202T091831"
+        },
+        {
+            "Activity": "소탕_한계돌파x3",
+            "Source": "BlueStacks App Player",
+            "Status": 1,
+            "Success": true,
+            "Timestamp": "20251202T091105"
+        },
+        {
+            "Activity": "소탕_한계돌파x3",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T090237"
+        },
+        {
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T085212"
+        },
+        {
+            "Activity": "BlueStacks App Player 2",
+            "Source": "BlueStacks App Player 2",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T085209"
         },
         {
             "Activity": "BlueStacks App Player 1",
             "Source": "BlueStacks App Player 1",
             "Status": 0,
             "Success": true,
-            "Timestamp": "20251020T090945"
+            "Timestamp": "20251202T085207"
         },
         {
             "Activity": "BlueStacks App Player",
             "Source": "BlueStacks App Player",
             "Status": 0,
             "Success": true,
-            "Timestamp": "20251020T090943"
+            "Timestamp": "20251202T085205"
+        },
+        {
+            "Activity": "숙제_화",
+            "Source": "BlueStacks App Player 3",
+            "Status": 2,
+            "Success": true,
+            "Timestamp": "20251202T025857"
+        },
+        {
+            "Activity": "숙제_화",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T020500"
+        },
+        {
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T020022"
+        },
+        {
+            "Activity": "숙제_화",
+            "Source": "BlueStacks App Player 2",
+            "Status": 2,
+            "Success": true,
+            "Timestamp": "20251202T014357"
+        },
+        {
+            "Activity": "숙제_화",
+            "Source": "BlueStacks App Player 1",
+            "Status": 2,
+            "Success": true,
+            "Timestamp": "20251202T014357"
+        },
+        {
+            "Activity": "숙제_화",
+            "Source": "BlueStacks App Player",
+            "Status": 2,
+            "Success": true,
+            "Timestamp": "20251202T014357"
+        },
+        {
+            "Activity": "숙제_화",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T005000"
+        },
+        {
+            "Activity": "숙제_화",
+            "Source": "BlueStacks App Player 1",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T005000"
+        },
+        {
+            "Activity": "숙제_화",
+            "Source": "BlueStacks App Player 2",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T005000"
+        },
+        {
+            "Activity": "BlueStacks App Player 2",
+            "Source": "BlueStacks App Player 2",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T004532"
+        },
+        {
+            "Activity": "BlueStacks App Player 1",
+            "Source": "BlueStacks App Player 1",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T004530"
+        },
+        {
+            "Activity": "BlueStacks App Player",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251202T004530"
+        },
+        {
+            "Activity": "BlueStacks App Player 2",
+            "Source": "BlueStacks App Player 2",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251201T212119"
+        },
+        {
+            "Activity": "BlueStacks App Player 1",
+            "Source": "BlueStacks App Player 1",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251201T212117"
+        },
+        {
+            "Activity": "BlueStacks App Player",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251201T212116"
+        },
+        {
+            "Activity": "BlueStacks App Player 2",
+            "Source": "BlueStacks App Player 2",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251201T163724"
+        },
+        {
+            "Activity": "BlueStacks App Player 1",
+            "Source": "BlueStacks App Player 1",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251201T163722"
+        },
+        {
+            "Activity": "BlueStacks App Player",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251201T163720"
+        },
+        {
+            "Activity": "BlueStacks App Player 1",
+            "Source": "BlueStacks App Player 1",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251201T160908"
+        },
+        {
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251201T160514"
+        },
+        {
+            "Activity": "BlueStacks App Player 2",
+            "Source": "BlueStacks App Player 2",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251201T155217"
+        },
+        {
+            "Activity": "BlueStacks App Player 1",
+            "Source": "BlueStacks App Player 1",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251201T155215"
+        },
+        {
+            "Activity": "BlueStacks App Player",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251201T155213"
+        },
+        {
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251201T154716"
+        },
+        {
+            "Activity": "BlueStacks App Player 2",
+            "Source": "BlueStacks App Player 2",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251201T154118"
+        },
+        {
+            "Activity": "BlueStacks App Player 1",
+            "Source": "BlueStacks App Player 1",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251201T154116"
+        },
+        {
+            "Activity": "BlueStacks App Player",
+            "Source": "BlueStacks App Player",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251201T154114"
+        },
+        {
+            "Activity": "숙제확인_월.화.목.토",
+            "Source": "BlueStacks App Player 3",
+            "Status": 2,
+            "Success": true,
+            "Timestamp": "20251201T142301"
+        },
+        {
+            "Activity": "숙제확인_월.화.목.토",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251201T140500"
+        },
+        {
+            "Activity": "BlueStacks App Player 3",
+            "Source": "BlueStacks App Player 3",
+            "Status": 0,
+            "Success": true,
+            "Timestamp": "20251201T140028"
         }
     ]
 }

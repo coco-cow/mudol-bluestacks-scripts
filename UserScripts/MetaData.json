@@ -16,7 +16,16 @@
                     "LoopInterval": 0,
                     "LoopIterations": 1,
                     "MacrosToRun": [
-                        "소탕_한정사건_24"
+                        "소탕_한정사건_14"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "소탕_한정사건_21"
                     ]
                 }
             ],
@@ -4762,7 +4771,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "일반프리셋_2",
-            "Order": 38,
+            "Order": 40,
             "ParentFolder": 28
         },
         {
@@ -4807,7 +4816,7 @@
             "IsOpen": false,
             "IsVisible": true,
             "Name": "게입입장",
-            "Order": 42,
+            "Order": 44,
             "ParentFolder": -1
         },
         {
@@ -4825,7 +4834,7 @@
             "IsOpen": false,
             "IsVisible": true,
             "Name": "모험입장",
-            "Order": 46,
+            "Order": 48,
             "ParentFolder": -1
         },
         {
@@ -4852,7 +4861,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "보상수령",
-            "Order": 6,
+            "Order": 17,
             "ParentFolder": 31
         },
         {
@@ -4861,7 +4870,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "보상_성채탐험",
-            "Order": 23,
+            "Order": 28,
             "ParentFolder": 31
         },
         {
@@ -4870,7 +4879,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "보상_성채탐험v4",
-            "Order": 1,
+            "Order": 13,
             "ParentFolder": 31
         },
         {
@@ -4879,7 +4888,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "보상_내성",
-            "Order": 22,
+            "Order": 27,
             "ParentFolder": 31
         },
         {
@@ -4924,7 +4933,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "보상_임무",
-            "Order": 43,
+            "Order": 45,
             "ParentFolder": 31
         },
         {
@@ -4960,7 +4969,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "보상_주간",
-            "Order": 41,
+            "Order": 43,
             "ParentFolder": 31
         },
         {
@@ -4978,7 +4987,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "보상_우편함",
-            "Order": 32,
+            "Order": 34,
             "ParentFolder": 31
         },
         {
@@ -5164,7 +5173,7 @@
         {
             "ID": 32,
             "IsFolder": true,
-            "IsOpen": false,
+            "IsOpen": true,
             "IsVisible": true,
             "Name": "소탕",
             "Order": -1,
@@ -5174,7 +5183,7 @@
             "ID": 53,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_한정사건_14",
             "Order": -1,
             "ParentFolder": 32
@@ -5183,16 +5192,16 @@
             "ID": 134,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_한정사건_21",
-            "Order": 33,
+            "Order": 35,
             "ParentFolder": 32
         },
         {
             "ID": 135,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_한정사건_23",
             "Order": -1,
             "ParentFolder": 32
@@ -5201,7 +5210,7 @@
             "ID": 57,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_한정사건_24",
             "Order": -1,
             "ParentFolder": 32
@@ -5210,7 +5219,7 @@
             "ID": 139,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_한정사건_31",
             "Order": -1,
             "ParentFolder": 32
@@ -5219,7 +5228,7 @@
             "ID": 140,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_한정사건_33",
             "Order": -1,
             "ParentFolder": 32
@@ -5228,7 +5237,7 @@
             "ID": 58,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_한정사건_34",
             "Order": -1,
             "ParentFolder": 32
@@ -5237,7 +5246,7 @@
             "ID": 8,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_투기장",
             "Order": -1,
             "ParentFolder": 32
@@ -5246,7 +5255,7 @@
             "ID": 30,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_결투장",
             "Order": -1,
             "ParentFolder": 32
@@ -5255,7 +5264,7 @@
             "ID": 45,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_일일사건_19",
             "Order": -1,
             "ParentFolder": 32
@@ -5264,7 +5273,7 @@
             "ID": 46,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_일일사건_29",
             "Order": -1,
             "ParentFolder": 32
@@ -5273,7 +5282,7 @@
             "ID": 48,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_일일사건_39",
             "Order": -1,
             "ParentFolder": 32
@@ -5282,7 +5291,7 @@
             "ID": 49,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_일일사건_49",
             "Order": -1,
             "ParentFolder": 32
@@ -5291,7 +5300,7 @@
             "ID": 50,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_일일사건_44",
             "Order": -1,
             "ParentFolder": 32
@@ -5300,7 +5309,7 @@
             "ID": 51,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_일일사건_54",
             "Order": -1,
             "ParentFolder": 32
@@ -5309,7 +5318,7 @@
             "ID": 52,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_일일사건_64",
             "Order": -1,
             "ParentFolder": 32
@@ -5318,7 +5327,7 @@
             "ID": 60,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_일일사건_공통",
             "Order": -1,
             "ParentFolder": 32
@@ -5327,7 +5336,7 @@
             "ID": 61,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_일일사건_월.화.목.토",
             "Order": -1,
             "ParentFolder": 32
@@ -5336,7 +5345,7 @@
             "ID": 62,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_일일사건_수.금",
             "Order": -1,
             "ParentFolder": 32
@@ -5345,7 +5354,7 @@
             "ID": 63,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_일일사건_일",
             "Order": -1,
             "ParentFolder": 32
@@ -5354,16 +5363,16 @@
             "ID": 85,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_연합던전_1",
-            "Order": 47,
+            "Order": 49,
             "ParentFolder": 32
         },
         {
             "ID": 86,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_연합던전_2",
             "Order": -1,
             "ParentFolder": 32
@@ -5372,7 +5381,7 @@
             "ID": 87,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_연합대전_중",
             "Order": -1,
             "ParentFolder": 32
@@ -5381,7 +5390,7 @@
             "ID": 88,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_연합대전_후",
             "Order": -1,
             "ParentFolder": 32
@@ -5390,16 +5399,16 @@
             "ID": 89,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_연합대전_선",
-            "Order": -1,
+            "Order": 5,
             "ParentFolder": 32
         },
         {
             "ID": 110,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_연의_x8",
             "Order": -1,
             "ParentFolder": 32
@@ -5408,7 +5417,7 @@
             "ID": 112,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_연의_x9",
             "Order": -1,
             "ParentFolder": 32
@@ -5417,7 +5426,7 @@
             "ID": 113,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_연의_x10",
             "Order": -1,
             "ParentFolder": 32
@@ -5426,18 +5435,18 @@
             "ID": 97,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_한계돌파x2",
-            "Order": 14,
+            "Order": 20,
             "ParentFolder": 32
         },
         {
             "ID": 179,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "소탕_한계돌파x3",
-            "Order": 5,
+            "Order": 2,
             "ParentFolder": 32
         },
         {
@@ -5608,7 +5617,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "한정사건_보너스무장_세팅",
-            "Order": 37,
+            "Order": 39,
             "ParentFolder": 41
         },
         {
@@ -5662,7 +5671,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "대전프리셋_8_중",
-            "Order": -1,
+            "Order": 4,
             "ParentFolder": 90
         },
         {
@@ -5785,7 +5794,7 @@
         {
             "ID": 75,
             "IsFolder": true,
-            "IsOpen": true,
+            "IsOpen": false,
             "IsVisible": true,
             "Name": "숙제",
             "Order": -1,
@@ -5795,7 +5804,7 @@
             "ID": 67,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제_공통_S",
             "Order": -1,
             "ParentFolder": 75
@@ -5804,7 +5813,7 @@
             "ID": 68,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제_공통_E",
             "Order": -1,
             "ParentFolder": 75
@@ -5813,34 +5822,34 @@
             "ID": 69,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제_월",
-            "Order": 15,
+            "Order": 9,
             "ParentFolder": 75
         },
         {
             "ID": 70,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제_화",
-            "Order": 11,
+            "Order": 7,
             "ParentFolder": 75
         },
         {
             "ID": 71,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제_수",
-            "Order": 10,
+            "Order": 3,
             "ParentFolder": 75
         },
         {
             "ID": 72,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제_목",
             "Order": -1,
             "ParentFolder": 75
@@ -5849,70 +5858,70 @@
             "ID": 73,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제_금",
-            "Order": 7,
+            "Order": 18,
             "ParentFolder": 75
         },
         {
             "ID": 125,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제_토",
-            "Order": 30,
+            "Order": 12,
             "ParentFolder": 75
         },
         {
             "ID": 74,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제_일",
-            "Order": 29,
+            "Order": 11,
             "ParentFolder": 75
         },
         {
             "ID": 124,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제확인_월_주간보상수령",
-            "Order": 12,
+            "Order": 8,
             "ParentFolder": 75
         },
         {
             "ID": 115,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제확인_월.화.목.토",
-            "Order": 8,
+            "Order": 6,
             "ParentFolder": 75
         },
         {
             "ID": 116,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제확인_수.금",
-            "Order": 4,
+            "Order": 16,
             "ParentFolder": 75
         },
         {
             "ID": 117,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "숙제확인_일",
-            "Order": 28,
+            "Order": 10,
             "ParentFolder": 75
         },
         {
             "ID": 168,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "주간숙제_무장합성",
             "Order": -1,
             "ParentFolder": 75
@@ -5921,7 +5930,7 @@
             "ID": 164,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "6-------------------------",
             "Order": -1,
             "ParentFolder": 75
@@ -5977,7 +5986,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "구매_관문돌파_특강무기",
-            "Order": 18,
+            "Order": 23,
             "ParentFolder": 152
         },
         {
@@ -5986,7 +5995,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "구매_관문돌파_특강방어",
-            "Order": 17,
+            "Order": 22,
             "ParentFolder": 152
         },
         {
@@ -6004,7 +6013,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "구매_관문돌파_02",
-            "Order": 26,
+            "Order": 31,
             "ParentFolder": 152
         },
         {
@@ -6157,7 +6166,7 @@
             "IsOpen": false,
             "IsVisible": true,
             "Name": "매크로 (208)",
-            "Order": 13,
+            "Order": 1,
             "ParentFolder": -1
         }
     ],
