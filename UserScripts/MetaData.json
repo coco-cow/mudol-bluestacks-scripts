@@ -25,7 +25,7 @@
                     "LoopInterval": 0,
                     "LoopIterations": 1,
                     "MacrosToRun": [
-                        "소탕_한정사건_21"
+                        "소탕_한정사건_24"
                     ]
                 }
             ],
@@ -1199,6 +1199,164 @@
         },
         {
             "Acceleration": 1,
+            "CreationTime": "20250903T145419",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "한계돌파_입장"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "일반프리셋_6_한계돌파"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "한계돌파_손탕"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "한계돌파_여의주충전"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "한계돌파_손탕"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "모험입장"
+                    ]
+                }
+            ],
+            "Name": "소탕_한계돌파x2",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20251023T134639",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "한계돌파_입장"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "일반프리셋_6_한계돌파"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "한계돌파_손탕"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "한계돌파_여의주충전"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "한계돌파_손탕"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "한계돌파_여의주충전"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "한계돌파_손탕"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "모험입장"
+                    ]
+                }
+            ],
+            "Name": "소탕_한계돌파x3",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
             "CreationTime": "20250903T094625",
             "DoNotShowWindowOnFinish": false,
             "LoopDuration": 0,
@@ -2093,164 +2251,6 @@
         },
         {
             "Acceleration": 1,
-            "CreationTime": "20250903T145419",
-            "DoNotShowWindowOnFinish": false,
-            "LoopDuration": 0,
-            "LoopInterval": 0,
-            "LoopIterations": 1,
-            "LoopType": "TillLoopNumber",
-            "MergeConfigurations": [
-                {
-                    "Acceleration": 1,
-                    "DelayNextScript": 0,
-                    "LoopInterval": 0,
-                    "LoopIterations": 1,
-                    "MacrosToRun": [
-                        "한계돌파_입장"
-                    ]
-                },
-                {
-                    "Acceleration": 1,
-                    "DelayNextScript": 0,
-                    "LoopInterval": 0,
-                    "LoopIterations": 1,
-                    "MacrosToRun": [
-                        "일반프리셋_6_한계돌파"
-                    ]
-                },
-                {
-                    "Acceleration": 1,
-                    "DelayNextScript": 0,
-                    "LoopInterval": 0,
-                    "LoopIterations": 1,
-                    "MacrosToRun": [
-                        "한계돌파_손탕"
-                    ]
-                },
-                {
-                    "Acceleration": 1,
-                    "DelayNextScript": 0,
-                    "LoopInterval": 0,
-                    "LoopIterations": 1,
-                    "MacrosToRun": [
-                        "한계돌파_여의주충전"
-                    ]
-                },
-                {
-                    "Acceleration": 1,
-                    "DelayNextScript": 0,
-                    "LoopInterval": 0,
-                    "LoopIterations": 1,
-                    "MacrosToRun": [
-                        "한계돌파_손탕"
-                    ]
-                },
-                {
-                    "Acceleration": 1,
-                    "DelayNextScript": 0,
-                    "LoopInterval": 0,
-                    "LoopIterations": 1,
-                    "MacrosToRun": [
-                        "모험입장"
-                    ]
-                }
-            ],
-            "Name": "소탕_한계돌파x2",
-            "RestartPlayer": false,
-            "RestartPlayerAfterMinutes": 60,
-            "Shortcut": "",
-            "StopOnHomeScreen": false
-        },
-        {
-            "Acceleration": 1,
-            "CreationTime": "20251023T134639",
-            "DoNotShowWindowOnFinish": false,
-            "LoopDuration": 0,
-            "LoopInterval": 0,
-            "LoopIterations": 1,
-            "LoopType": "TillLoopNumber",
-            "MergeConfigurations": [
-                {
-                    "Acceleration": 1,
-                    "DelayNextScript": 0,
-                    "LoopInterval": 0,
-                    "LoopIterations": 1,
-                    "MacrosToRun": [
-                        "한계돌파_입장"
-                    ]
-                },
-                {
-                    "Acceleration": 1,
-                    "DelayNextScript": 0,
-                    "LoopInterval": 0,
-                    "LoopIterations": 1,
-                    "MacrosToRun": [
-                        "일반프리셋_6_한계돌파"
-                    ]
-                },
-                {
-                    "Acceleration": 1,
-                    "DelayNextScript": 0,
-                    "LoopInterval": 0,
-                    "LoopIterations": 1,
-                    "MacrosToRun": [
-                        "한계돌파_손탕"
-                    ]
-                },
-                {
-                    "Acceleration": 1,
-                    "DelayNextScript": 0,
-                    "LoopInterval": 0,
-                    "LoopIterations": 1,
-                    "MacrosToRun": [
-                        "한계돌파_여의주충전"
-                    ]
-                },
-                {
-                    "Acceleration": 1,
-                    "DelayNextScript": 0,
-                    "LoopInterval": 0,
-                    "LoopIterations": 1,
-                    "MacrosToRun": [
-                        "한계돌파_손탕"
-                    ]
-                },
-                {
-                    "Acceleration": 1,
-                    "DelayNextScript": 0,
-                    "LoopInterval": 0,
-                    "LoopIterations": 1,
-                    "MacrosToRun": [
-                        "한계돌파_여의주충전"
-                    ]
-                },
-                {
-                    "Acceleration": 1,
-                    "DelayNextScript": 0,
-                    "LoopInterval": 0,
-                    "LoopIterations": 1,
-                    "MacrosToRun": [
-                        "한계돌파_손탕"
-                    ]
-                },
-                {
-                    "Acceleration": 1,
-                    "DelayNextScript": 0,
-                    "LoopInterval": 0,
-                    "LoopIterations": 1,
-                    "MacrosToRun": [
-                        "모험입장"
-                    ]
-                }
-            ],
-            "Name": "소탕_한계돌파x3",
-            "RestartPlayer": false,
-            "RestartPlayerAfterMinutes": 60,
-            "Shortcut": "",
-            "StopOnHomeScreen": false
-        },
-        {
-            "Acceleration": 1,
             "CreationTime": "20250903T100436",
             "DoNotShowWindowOnFinish": false,
             "LoopDuration": 0,
@@ -2931,7 +2931,7 @@
                     "Acceleration": 1,
                     "DelayNextScript": 0,
                     "LoopInterval": 0,
-                    "LoopIterations": 14,
+                    "LoopIterations": 16,
                     "MacrosToRun": [
                         "한계돌파_와리가리"
                     ]
@@ -3045,6 +3045,15 @@
                     "LoopIterations": 1,
                     "MacrosToRun": [
                         "소탕_한정사건"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "모험입장"
                     ]
                 }
             ],
@@ -3701,6 +3710,15 @@
                     "LoopInterval": 0,
                     "LoopIterations": 1,
                     "MacrosToRun": [
+                        "주간_무장카드"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
                         "주간숙제_무장합성"
                     ]
                 },
@@ -3769,7 +3787,7 @@
                     "Acceleration": 1,
                     "DelayNextScript": 0,
                     "LoopInterval": 0,
-                    "LoopIterations": 2,
+                    "LoopIterations": 1,
                     "MacrosToRun": [
                         "모험입장"
                     ]
@@ -3911,7 +3929,7 @@
                     "Acceleration": 1,
                     "DelayNextScript": 0,
                     "LoopInterval": 0,
-                    "LoopIterations": 2,
+                    "LoopIterations": 1,
                     "MacrosToRun": [
                         "모험입장"
                     ]
@@ -4026,7 +4044,7 @@
                     "Acceleration": 1,
                     "DelayNextScript": 0,
                     "LoopInterval": 0,
-                    "LoopIterations": 2,
+                    "LoopIterations": 1,
                     "MacrosToRun": [
                         "모험입장"
                     ]
@@ -4143,7 +4161,7 @@
                     "LoopInterval": 0,
                     "LoopIterations": 1,
                     "MacrosToRun": [
-                        "주간_무장카드"
+                        "모험입장"
                     ]
                 },
                 {
@@ -4152,7 +4170,7 @@
                     "LoopInterval": 0,
                     "LoopIterations": 1,
                     "MacrosToRun": [
-                        "주간_무장합성"
+                        "주간_무장카드"
                     ]
                 }
             ],
@@ -4521,24 +4539,15 @@
         },
         {
             "Acceleration": 1,
-            "CreationTime": "20251013T091105",
+            "CreationTime": "20251218T132024",
             "DoNotShowWindowOnFinish": false,
             "LoopDuration": 0,
             "LoopInterval": 0,
             "LoopIterations": 1,
             "LoopType": "TillLoopNumber",
             "MergeConfigurations": [
-                {
-                    "Acceleration": 1,
-                    "DelayNextScript": 0,
-                    "LoopInterval": 0,
-                    "LoopIterations": 10,
-                    "MacrosToRun": [
-                        "가방_오픈"
-                    ]
-                }
             ],
-            "Name": "가방_오픈x10",
+            "Name": "가방_오픈v2",
             "RestartPlayer": false,
             "RestartPlayerAfterMinutes": 60,
             "Shortcut": "",
@@ -4566,16 +4575,16 @@
                     "Acceleration": 1,
                     "DelayNextScript": 0,
                     "LoopInterval": 0,
-                    "LoopIterations": 1,
+                    "LoopIterations": 10,
                     "MacrosToRun": [
-                        "가방_오픈x10"
+                        "가방_오픈v2"
                     ]
                 },
                 {
                     "Acceleration": 1,
                     "DelayNextScript": 0,
                     "LoopInterval": 0,
-                    "LoopIterations": 1,
+                    "LoopIterations": 2,
                     "MacrosToRun": [
                         "모험입장"
                     ]
@@ -4621,6 +4630,22 @@
         },
         {
             "Acceleration": 1,
+            "CreationTime": "20251223T131311",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "무장합성v2",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
             "CreationTime": "20251013T091915",
             "DoNotShowWindowOnFinish": false,
             "LoopDuration": 0,
@@ -4646,6 +4671,31 @@
         },
         {
             "Acceleration": 1,
+            "CreationTime": "20251223T131409",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 12,
+                    "MacrosToRun": [
+                        "무장합성v2"
+                    ]
+                }
+            ],
+            "Name": "무장합성v2x12",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
             "CreationTime": "20251013T092014",
             "DoNotShowWindowOnFinish": false,
             "LoopDuration": 0,
@@ -4653,6 +4703,15 @@
             "LoopIterations": 1,
             "LoopType": "TillLoopNumber",
             "MergeConfigurations": [
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "모험입장"
+                    ]
+                },
                 {
                     "Acceleration": 1,
                     "DelayNextScript": 0,
@@ -4668,7 +4727,7 @@
                     "LoopInterval": 0,
                     "LoopIterations": 1,
                     "MacrosToRun": [
-                        "무장합성x12"
+                        "무장합성v2x12"
                     ]
                 },
                 {
@@ -4689,7 +4748,7 @@
         },
         {
             "Acceleration": 1,
-            "CreationTime": "20251021T085805",
+            "CreationTime": "20251211T120428",
             "DoNotShowWindowOnFinish": false,
             "LoopDuration": 0,
             "LoopInterval": 0,
@@ -4697,7 +4756,7 @@
             "LoopType": "TillLoopNumber",
             "MergeConfigurations": [
             ],
-            "Name": "매크로 (206)",
+            "Name": "축복x1",
             "RestartPlayer": false,
             "RestartPlayerAfterMinutes": 60,
             "Shortcut": "",
@@ -4705,23 +4764,7 @@
         },
         {
             "Acceleration": 1,
-            "CreationTime": "20251021T085812",
-            "DoNotShowWindowOnFinish": false,
-            "LoopDuration": 0,
-            "LoopInterval": 0,
-            "LoopIterations": 1,
-            "LoopType": "TillLoopNumber",
-            "MergeConfigurations": [
-            ],
-            "Name": "매크로 (207)",
-            "RestartPlayer": false,
-            "RestartPlayerAfterMinutes": 60,
-            "Shortcut": "",
-            "StopOnHomeScreen": false
-        },
-        {
-            "Acceleration": 1,
-            "CreationTime": "20251021T085847",
+            "CreationTime": "20251211T120456",
             "DoNotShowWindowOnFinish": false,
             "LoopDuration": 0,
             "LoopInterval": 0,
@@ -4732,20 +4775,539 @@
                     "Acceleration": 1,
                     "DelayNextScript": 0,
                     "LoopInterval": 0,
-                    "LoopIterations": 10,
+                    "LoopIterations": 30,
                     "MacrosToRun": [
-                        "매크로 (207)"
+                        "축복x1"
                     ]
                 }
             ],
-            "Name": "매크로 (208)",
+            "Name": "축복x30",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20251218T130717",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "경고서x30",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20251226T095051",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "연합상점_버프_입장",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20251226T095632",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "연합상점_버프_구매",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20251226T095243",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "연합상점_버프_1",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20251226T095336",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "연합상점_버프_2",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20251226T095351",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "연합상점_버프_3",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20251226T095433",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "연합상점_버프_4",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20251226T095449",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "연합상점_버프_5",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20251226T095544",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "연합상점_버프_6",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20251226T095559",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "연합상점_버프_7",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20251226T095922",
+            "DoNotShowWindowOnFinish": true,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "게임종료"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "게입입장"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "모험입장"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "연합상점_버프_입장"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "연합상점_버프_1"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "연합상점_버프_구매"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "연합상점_버프_2"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "연합상점_버프_구매"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "연합상점_버프_3"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "연합상점_버프_구매"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "연합상점_버프_4"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "연합상점_버프_구매"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "연합상점_버프_5"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "연합상점_버프_구매"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "연합상점_버프_6"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "연합상점_버프_구매"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "연합상점_버프_7"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "연합상점_버프_구매"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "게임종료"
+                    ]
+                }
+            ],
+            "Name": "주간숙제_연합버프",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20260102T093122",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "무한돌파 소탕",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20260102T093349",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+            ],
+            "Name": "연의 소탕x3",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20260102T093559",
+            "DoNotShowWindowOnFinish": false,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "결투장_입장"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "결투장_새로고침+프리셋1번저장"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "결투장_연속도전"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "모험입장"
+                    ]
+                }
+            ],
+            "Name": "결투장소탕x5",
+            "RestartPlayer": false,
+            "RestartPlayerAfterMinutes": 60,
+            "Shortcut": "",
+            "StopOnHomeScreen": false
+        },
+        {
+            "Acceleration": 1,
+            "CreationTime": "20260102T093513",
+            "DoNotShowWindowOnFinish": true,
+            "LoopDuration": 0,
+            "LoopInterval": 0,
+            "LoopIterations": 1,
+            "LoopType": "TillLoopNumber",
+            "MergeConfigurations": [
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "게임종료"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "게입입장"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "모험입장"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "경고서x30"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "무한돌파 소탕"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "연의 소탕x3"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "결투장소탕x5"
+                    ]
+                },
+                {
+                    "Acceleration": 1,
+                    "DelayNextScript": 0,
+                    "LoopInterval": 0,
+                    "LoopIterations": 1,
+                    "MacrosToRun": [
+                        "게임종료"
+                    ]
+                }
+            ],
+            "Name": "이벤트용 숙제",
             "RestartPlayer": false,
             "RestartPlayerAfterMinutes": 60,
             "Shortcut": "",
             "StopOnHomeScreen": false
         }
     ],
-    "NextMacroId": 218,
+    "NextMacroId": 245,
     "Organization": [
         {
             "ID": 64,
@@ -4771,7 +5333,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "일반프리셋_2",
-            "Order": 40,
+            "Order": -1,
             "ParentFolder": 28
         },
         {
@@ -4816,7 +5378,7 @@
             "IsOpen": false,
             "IsVisible": true,
             "Name": "게입입장",
-            "Order": 44,
+            "Order": -1,
             "ParentFolder": -1
         },
         {
@@ -4834,7 +5396,7 @@
             "IsOpen": false,
             "IsVisible": true,
             "Name": "모험입장",
-            "Order": 48,
+            "Order": -1,
             "ParentFolder": -1
         },
         {
@@ -4861,7 +5423,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "보상수령",
-            "Order": 17,
+            "Order": -1,
             "ParentFolder": 31
         },
         {
@@ -4870,7 +5432,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "보상_성채탐험",
-            "Order": 28,
+            "Order": -1,
             "ParentFolder": 31
         },
         {
@@ -4879,7 +5441,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "보상_성채탐험v4",
-            "Order": 13,
+            "Order": 50,
             "ParentFolder": 31
         },
         {
@@ -4888,7 +5450,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "보상_내성",
-            "Order": 27,
+            "Order": -1,
             "ParentFolder": 31
         },
         {
@@ -4933,7 +5495,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "보상_임무",
-            "Order": 45,
+            "Order": -1,
             "ParentFolder": 31
         },
         {
@@ -4969,7 +5531,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "보상_주간",
-            "Order": 43,
+            "Order": -1,
             "ParentFolder": 31
         },
         {
@@ -4987,7 +5549,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "보상_우편함",
-            "Order": 34,
+            "Order": -1,
             "ParentFolder": 31
         },
         {
@@ -5173,7 +5735,7 @@
         {
             "ID": 32,
             "IsFolder": true,
-            "IsOpen": true,
+            "IsOpen": false,
             "IsVisible": true,
             "Name": "소탕",
             "Order": -1,
@@ -5183,7 +5745,7 @@
             "ID": 53,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_한정사건_14",
             "Order": -1,
             "ParentFolder": 32
@@ -5192,16 +5754,16 @@
             "ID": 134,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_한정사건_21",
-            "Order": 35,
+            "Order": -1,
             "ParentFolder": 32
         },
         {
             "ID": 135,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_한정사건_23",
             "Order": -1,
             "ParentFolder": 32
@@ -5210,7 +5772,7 @@
             "ID": 57,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_한정사건_24",
             "Order": -1,
             "ParentFolder": 32
@@ -5219,7 +5781,7 @@
             "ID": 139,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_한정사건_31",
             "Order": -1,
             "ParentFolder": 32
@@ -5228,7 +5790,7 @@
             "ID": 140,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_한정사건_33",
             "Order": -1,
             "ParentFolder": 32
@@ -5237,8 +5799,26 @@
             "ID": 58,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_한정사건_34",
+            "Order": -1,
+            "ParentFolder": 32
+        },
+        {
+            "ID": 97,
+            "IsFolder": false,
+            "IsOpen": true,
+            "IsVisible": false,
+            "Name": "소탕_한계돌파x2",
+            "Order": 4,
+            "ParentFolder": 32
+        },
+        {
+            "ID": 179,
+            "IsFolder": false,
+            "IsOpen": true,
+            "IsVisible": false,
+            "Name": "소탕_한계돌파x3",
             "Order": -1,
             "ParentFolder": 32
         },
@@ -5246,16 +5826,16 @@
             "ID": 8,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_투기장",
-            "Order": -1,
+            "Order": 19,
             "ParentFolder": 32
         },
         {
             "ID": 30,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_결투장",
             "Order": -1,
             "ParentFolder": 32
@@ -5264,7 +5844,7 @@
             "ID": 45,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_일일사건_19",
             "Order": -1,
             "ParentFolder": 32
@@ -5273,7 +5853,7 @@
             "ID": 46,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_일일사건_29",
             "Order": -1,
             "ParentFolder": 32
@@ -5282,7 +5862,7 @@
             "ID": 48,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_일일사건_39",
             "Order": -1,
             "ParentFolder": 32
@@ -5291,7 +5871,7 @@
             "ID": 49,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_일일사건_49",
             "Order": -1,
             "ParentFolder": 32
@@ -5300,7 +5880,7 @@
             "ID": 50,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_일일사건_44",
             "Order": -1,
             "ParentFolder": 32
@@ -5309,7 +5889,7 @@
             "ID": 51,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_일일사건_54",
             "Order": -1,
             "ParentFolder": 32
@@ -5318,7 +5898,7 @@
             "ID": 52,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_일일사건_64",
             "Order": -1,
             "ParentFolder": 32
@@ -5327,7 +5907,7 @@
             "ID": 60,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_일일사건_공통",
             "Order": -1,
             "ParentFolder": 32
@@ -5336,7 +5916,7 @@
             "ID": 61,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_일일사건_월.화.목.토",
             "Order": -1,
             "ParentFolder": 32
@@ -5345,7 +5925,7 @@
             "ID": 62,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_일일사건_수.금",
             "Order": -1,
             "ParentFolder": 32
@@ -5354,7 +5934,7 @@
             "ID": 63,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_일일사건_일",
             "Order": -1,
             "ParentFolder": 32
@@ -5363,16 +5943,16 @@
             "ID": 85,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_연합던전_1",
-            "Order": 49,
+            "Order": -1,
             "ParentFolder": 32
         },
         {
             "ID": 86,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_연합던전_2",
             "Order": -1,
             "ParentFolder": 32
@@ -5381,7 +5961,7 @@
             "ID": 87,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_연합대전_중",
             "Order": -1,
             "ParentFolder": 32
@@ -5390,7 +5970,7 @@
             "ID": 88,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_연합대전_후",
             "Order": -1,
             "ParentFolder": 32
@@ -5399,16 +5979,16 @@
             "ID": 89,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_연합대전_선",
-            "Order": 5,
+            "Order": 49,
             "ParentFolder": 32
         },
         {
             "ID": 110,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_연의_x8",
             "Order": -1,
             "ParentFolder": 32
@@ -5417,7 +5997,7 @@
             "ID": 112,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_연의_x9",
             "Order": -1,
             "ParentFolder": 32
@@ -5426,27 +6006,9 @@
             "ID": 113,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": true,
+            "IsVisible": false,
             "Name": "소탕_연의_x10",
             "Order": -1,
-            "ParentFolder": 32
-        },
-        {
-            "ID": 97,
-            "IsFolder": false,
-            "IsOpen": true,
-            "IsVisible": true,
-            "Name": "소탕_한계돌파x2",
-            "Order": 20,
-            "ParentFolder": 32
-        },
-        {
-            "ID": 179,
-            "IsFolder": false,
-            "IsOpen": true,
-            "IsVisible": true,
-            "Name": "소탕_한계돌파x3",
-            "Order": 2,
             "ParentFolder": 32
         },
         {
@@ -5464,7 +6026,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "결투장_입장",
-            "Order": -1,
+            "Order": 30,
             "ParentFolder": 33
         },
         {
@@ -5473,7 +6035,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "결투장_새로고침+프리셋1번저장",
-            "Order": -1,
+            "Order": 29,
             "ParentFolder": 33
         },
         {
@@ -5482,7 +6044,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "결투장_연속도전",
-            "Order": -1,
+            "Order": 28,
             "ParentFolder": 33
         },
         {
@@ -5617,7 +6179,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "한정사건_보너스무장_세팅",
-            "Order": 39,
+            "Order": -1,
             "ParentFolder": 41
         },
         {
@@ -5671,7 +6233,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "대전프리셋_8_중",
-            "Order": 4,
+            "Order": 48,
             "ParentFolder": 90
         },
         {
@@ -5761,7 +6323,7 @@
             "IsOpen": true,
             "IsVisible": false,
             "Name": "한계돌파_와리가리",
-            "Order": -1,
+            "Order": 26,
             "ParentFolder": 104
         },
         {
@@ -5794,7 +6356,7 @@
         {
             "ID": 75,
             "IsFolder": true,
-            "IsOpen": false,
+            "IsOpen": true,
             "IsVisible": true,
             "Name": "숙제",
             "Order": -1,
@@ -5804,7 +6366,7 @@
             "ID": 67,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "숙제_공통_S",
             "Order": -1,
             "ParentFolder": 75
@@ -5813,7 +6375,7 @@
             "ID": 68,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "숙제_공통_E",
             "Order": -1,
             "ParentFolder": 75
@@ -5822,52 +6384,52 @@
             "ID": 69,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "숙제_월",
-            "Order": 9,
+            "Order": 8,
             "ParentFolder": 75
         },
         {
             "ID": 70,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "숙제_화",
-            "Order": 7,
+            "Order": 3,
             "ParentFolder": 75
         },
         {
             "ID": 71,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "숙제_수",
-            "Order": 3,
+            "Order": 20,
             "ParentFolder": 75
         },
         {
             "ID": 72,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "숙제_목",
-            "Order": -1,
+            "Order": 18,
             "ParentFolder": 75
         },
         {
             "ID": 73,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "숙제_금",
-            "Order": 18,
+            "Order": 17,
             "ParentFolder": 75
         },
         {
             "ID": 125,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "숙제_토",
             "Order": 12,
             "ParentFolder": 75
@@ -5876,7 +6438,7 @@
             "ID": 74,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "숙제_일",
             "Order": 11,
             "ParentFolder": 75
@@ -5885,43 +6447,43 @@
             "ID": 124,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "숙제확인_월_주간보상수령",
-            "Order": 8,
+            "Order": -1,
             "ParentFolder": 75
         },
         {
             "ID": 115,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "숙제확인_월.화.목.토",
-            "Order": 6,
+            "Order": -1,
             "ParentFolder": 75
         },
         {
             "ID": 116,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "숙제확인_수.금",
-            "Order": 16,
+            "Order": 14,
             "ParentFolder": 75
         },
         {
             "ID": 117,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "숙제확인_일",
-            "Order": 10,
+            "Order": -1,
             "ParentFolder": 75
         },
         {
             "ID": 168,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "주간숙제_무장합성",
             "Order": -1,
             "ParentFolder": 75
@@ -5930,7 +6492,7 @@
             "ID": 164,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "6-------------------------",
             "Order": -1,
             "ParentFolder": 75
@@ -5986,7 +6548,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "구매_관문돌파_특강무기",
-            "Order": 23,
+            "Order": -1,
             "ParentFolder": 152
         },
         {
@@ -5995,7 +6557,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "구매_관문돌파_특강방어",
-            "Order": 22,
+            "Order": -1,
             "ParentFolder": 152
         },
         {
@@ -6013,7 +6575,7 @@
             "IsOpen": false,
             "IsVisible": false,
             "Name": "구매_관문돌파_02",
-            "Order": 31,
+            "Order": -1,
             "ParentFolder": 152
         },
         {
@@ -6055,7 +6617,7 @@
         {
             "ID": 166,
             "IsFolder": true,
-            "IsOpen": false,
+            "IsOpen": true,
             "IsVisible": true,
             "Name": "가방",
             "Order": -1,
@@ -6065,26 +6627,26 @@
             "ID": 156,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "입장_가방_상자",
-            "Order": -1,
+            "Order": 37,
             "ParentFolder": 166
         },
         {
             "ID": 157,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "가방_오픈",
             "Order": -1,
             "ParentFolder": 166
         },
         {
-            "ID": 158,
+            "ID": 190,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
-            "Name": "가방_오픈x10",
+            "IsVisible": true,
+            "Name": "가방_오픈v2",
             "Order": -1,
             "ParentFolder": 166
         },
@@ -6092,7 +6654,7 @@
             "ID": 160,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "주간_무장카드",
             "Order": -1,
             "ParentFolder": 166
@@ -6100,7 +6662,7 @@
         {
             "ID": 167,
             "IsFolder": true,
-            "IsOpen": false,
+            "IsOpen": true,
             "IsVisible": true,
             "Name": "무장카드",
             "Order": -1,
@@ -6110,17 +6672,26 @@
             "ID": 155,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "입장_무장합성",
-            "Order": -1,
+            "Order": 33,
             "ParentFolder": 167
         },
         {
             "ID": 161,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "무장합성",
+            "Order": 32,
+            "ParentFolder": 167
+        },
+        {
+            "ID": 192,
+            "IsFolder": false,
+            "IsOpen": true,
+            "IsVisible": true,
+            "Name": "무장합성v2",
             "Order": -1,
             "ParentFolder": 167
         },
@@ -6128,8 +6699,17 @@
             "ID": 162,
             "IsFolder": false,
             "IsOpen": false,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "무장합성x12",
+            "Order": -1,
+            "ParentFolder": 167
+        },
+        {
+            "ID": 193,
+            "IsFolder": false,
+            "IsOpen": true,
+            "IsVisible": true,
+            "Name": "무장합성v2x12",
             "Order": -1,
             "ParentFolder": 167
         },
@@ -6137,36 +6717,171 @@
             "ID": 163,
             "IsFolder": false,
             "IsOpen": true,
-            "IsVisible": false,
+            "IsVisible": true,
             "Name": "주간_무장합성",
-            "Order": -1,
+            "Order": 1,
             "ParentFolder": 167
         },
         {
-            "ID": 175,
+            "ID": 186,
             "IsFolder": false,
             "IsOpen": false,
             "IsVisible": true,
-            "Name": "매크로 (206)",
+            "Name": "축복x1",
+            "Order": 41,
+            "ParentFolder": -1
+        },
+        {
+            "ID": 187,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": true,
+            "Name": "축복x30",
+            "Order": 21,
+            "ParentFolder": -1
+        },
+        {
+            "ID": 188,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": true,
+            "Name": "경고서x30",
+            "Order": 15,
+            "ParentFolder": -1
+        },
+        {
+            "ID": 205,
+            "IsFolder": true,
+            "IsOpen": false,
+            "IsVisible": true,
+            "Name": "연합버프",
             "Order": -1,
             "ParentFolder": -1
         },
         {
-            "ID": 176,
+            "ID": 194,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "연합상점_버프_입장",
+            "Order": -1,
+            "ParentFolder": 205
+        },
+        {
+            "ID": 203,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "연합상점_버프_구매",
+            "Order": -1,
+            "ParentFolder": 205
+        },
+        {
+            "ID": 196,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "연합상점_버프_1",
+            "Order": 25,
+            "ParentFolder": 205
+        },
+        {
+            "ID": 197,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "연합상점_버프_2",
+            "Order": -1,
+            "ParentFolder": 205
+        },
+        {
+            "ID": 198,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "연합상점_버프_3",
+            "Order": -1,
+            "ParentFolder": 205
+        },
+        {
+            "ID": 199,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "연합상점_버프_4",
+            "Order": -1,
+            "ParentFolder": 205
+        },
+        {
+            "ID": 200,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "연합상점_버프_5",
+            "Order": -1,
+            "ParentFolder": 205
+        },
+        {
+            "ID": 201,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "연합상점_버프_6",
+            "Order": -1,
+            "ParentFolder": 205
+        },
+        {
+            "ID": 202,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "연합상점_버프_7",
+            "Order": -1,
+            "ParentFolder": 205
+        },
+        {
+            "ID": 204,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": false,
+            "Name": "주간숙제_연합버프",
+            "Order": 9,
+            "ParentFolder": 205
+        },
+        {
+            "ID": 207,
             "IsFolder": false,
             "IsOpen": false,
             "IsVisible": true,
-            "Name": "매크로 (207)",
+            "Name": "무한돌파 소탕",
             "Order": -1,
             "ParentFolder": -1
         },
         {
-            "ID": 177,
+            "ID": 208,
             "IsFolder": false,
             "IsOpen": false,
             "IsVisible": true,
-            "Name": "매크로 (208)",
-            "Order": 1,
+            "Name": "연의 소탕x3",
+            "Order": -1,
+            "ParentFolder": -1
+        },
+        {
+            "ID": 210,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": true,
+            "Name": "결투장소탕x5",
+            "Order": -1,
+            "ParentFolder": -1
+        },
+        {
+            "ID": 209,
+            "IsFolder": false,
+            "IsOpen": false,
+            "IsVisible": true,
+            "Name": "이벤트용 숙제",
+            "Order": 13,
             "ParentFolder": -1
         }
     ],

@@ -2,91 +2,91 @@
     {
         "ScheduleMacroId" : 1234594388,
         "MacroName" : "숙제_월",
-        "MSecsFromEpochUTCStartTime" : "1757269200000",
+        "MSecsFromEpochUTCStartTime" : "1757264700000",
         "MSecsRepeatTime" : "604800000"
     },
     {
         "ScheduleMacroId" : 295192227,
         "MacroName" : "숙제_화",
-        "MSecsFromEpochUTCStartTime" : "1757355600000",
+        "MSecsFromEpochUTCStartTime" : "1757351100000",
         "MSecsRepeatTime" : "604800000"
     },
     {
         "ScheduleMacroId" : 2105814098,
         "MacroName" : "숙제_수",
-        "MSecsFromEpochUTCStartTime" : "1756837200000",
+        "MSecsFromEpochUTCStartTime" : "1756832700000",
         "MSecsRepeatTime" : "604800000"
     },
     {
         "ScheduleMacroId" : 1463156642,
         "MacroName" : "숙제_목",
-        "MSecsFromEpochUTCStartTime" : "1756923600000",
+        "MSecsFromEpochUTCStartTime" : "1756919100000",
         "MSecsRepeatTime" : "604800000"
     },
     {
         "ScheduleMacroId" : 505372724,
         "MacroName" : "숙제_금",
-        "MSecsFromEpochUTCStartTime" : "1757010000000",
+        "MSecsFromEpochUTCStartTime" : "1757005500000",
         "MSecsRepeatTime" : "604800000"
     },
     {
         "ScheduleMacroId" : 1683501402,
         "MacroName" : "숙제_일",
-        "MSecsFromEpochUTCStartTime" : "1757182800000",
+        "MSecsFromEpochUTCStartTime" : "1757178300000",
         "MSecsRepeatTime" : "604800000"
     },
     {
         "ScheduleMacroId" : 1984781534,
         "MacroName" : "숙제확인_월.화.목.토",
-        "MSecsFromEpochUTCStartTime" : "1757312400000",
+        "MSecsFromEpochUTCStartTime" : "1757307900000",
         "MSecsRepeatTime" : "604800000"
     },
     {
         "ScheduleMacroId" : 1413131164,
         "MacroName" : "숙제확인_월.화.목.토",
-        "MSecsFromEpochUTCStartTime" : "1757398800000",
+        "MSecsFromEpochUTCStartTime" : "1757394300000",
         "MSecsRepeatTime" : "604800000"
     },
     {
         "ScheduleMacroId" : 857975814,
         "MacroName" : "숙제확인_수.금",
-        "MSecsFromEpochUTCStartTime" : "1756880400000",
+        "MSecsFromEpochUTCStartTime" : "1756875900000",
         "MSecsRepeatTime" : "604800000"
     },
     {
         "ScheduleMacroId" : 1581312011,
         "MacroName" : "숙제확인_월.화.목.토",
-        "MSecsFromEpochUTCStartTime" : "1756966800000",
+        "MSecsFromEpochUTCStartTime" : "1756962300000",
         "MSecsRepeatTime" : "604800000"
     },
     {
         "ScheduleMacroId" : 1882636086,
         "MacroName" : "숙제확인_수.금",
-        "MSecsFromEpochUTCStartTime" : "1757053200000",
+        "MSecsFromEpochUTCStartTime" : "1757048700000",
         "MSecsRepeatTime" : "604800000"
     },
     {
         "ScheduleMacroId" : 1191849273,
         "MacroName" : "숙제확인_월.화.목.토",
-        "MSecsFromEpochUTCStartTime" : "1757139600000",
+        "MSecsFromEpochUTCStartTime" : "1757135100000",
         "MSecsRepeatTime" : "604800000"
     },
     {
         "ScheduleMacroId" : 1660143848,
         "MacroName" : "숙제확인_일",
-        "MSecsFromEpochUTCStartTime" : "1757226000000",
+        "MSecsFromEpochUTCStartTime" : "1757221500000",
         "MSecsRepeatTime" : "604800000"
     },
     {
         "ScheduleMacroId" : 1466255756,
         "MacroName" : "숙제확인_월_주간보상수령",
-        "MSecsFromEpochUTCStartTime" : "1757283600000",
+        "MSecsFromEpochUTCStartTime" : "1757281200000",
         "MSecsRepeatTime" : "604800000"
     },
     {
         "ScheduleMacroId" : 1697073208,
         "MacroName" : "숙제_토",
-        "MSecsFromEpochUTCStartTime" : "1757096400000",
+        "MSecsFromEpochUTCStartTime" : "1757091900000",
         "MSecsRepeatTime" : "604800000"
     }
 ]
